@@ -1,0 +1,2001 @@
+twovgtprdzcjjzkq3ffsbcblnpq
+ -> ['2', '3'] -> 23 -> sum: 23
+two8sixbmrmqzrrb1seven
+ -> ['2', '8', '6', '1', '7'] -> 27 -> sum: 50
+9964pfxmmr474
+ -> ['9', '9', '6', '4', '4', '7', '4'] -> 94 -> sum: 144
+46one
+ -> ['4', '6', '1'] -> 41 -> sum: 185
+7fvfourgkfkkbloneeightdrfscspgkdrmzzt1
+ -> ['7', '4', '1', '8', '1'] -> 71 -> sum: 256
+15two6six
+ -> ['1', '5', '2', '6', '6'] -> 16 -> sum: 272
+htxxfmfd7nb
+ -> ['7'] -> 77 -> sum: 349
+sixfivesixeight4pfsgxvn9sfjfk5
+ -> ['6', '5', '6', '8', '4', '9', '5'] -> 65 -> sum: 414
+pmjjpggvhkrq2
+ -> ['2'] -> 22 -> sum: 436
+tvbrkhlxdsnine65
+ -> ['9', '6', '5'] -> 95 -> sum: 531
+four5gkrptqninenbdvffour1z
+ -> ['4', '5', '9', '4', '1'] -> 41 -> sum: 572
+foursgnlxmjtcrrfour7
+ -> ['4', '4', '7'] -> 47 -> sum: 619
+3onetwogkhmllzvrsqzhhnkvdg
+ -> ['3', '1', '2'] -> 32 -> sum: 651
+nineninegxknqzpsix28
+ -> ['9', '9', '6', '2', '8'] -> 98 -> sum: 749
+1seven85189mv
+ -> ['1', '7', '8', '5', '1', '8', '9'] -> 19 -> sum: 768
+gtwonejcncdlhpsxjrxnmpvfgtdrcdtd2nm
+ -> ['2', '1', '2'] -> 22 -> sum: 790
+1ninemxzntjptl
+ -> ['1', '9'] -> 19 -> sum: 809
+qcmqfour2onesgplvgzkdltqtvzhtb1
+ -> ['4', '2', '1', '1'] -> 41 -> sum: 850
+seventhreerxqvgkzqhfxfdhnp628zxtbjklkpdtwo
+ -> ['7', '3', '6', '2', '8', '2'] -> 72 -> sum: 922
+fjdsgcsqppzdthreefour3one3lvmpm
+ -> ['3', '4', '3', '1', '3'] -> 33 -> sum: 955
+sixsevenfivefourxf4mzhmkztwonepzt
+ -> ['6', '7', '5', '4', '4', '2', '1'] -> 61 -> sum: 1016
+nineninesixskjkbhx6nineoneightj
+ -> ['9', '9', '6', '6', '9', '1', '8'] -> 98 -> sum: 1114
+four6nzqxhhnrg
+ -> ['4', '6'] -> 46 -> sum: 1160
+86fiveone9dhrkkh6
+ -> ['8', '6', '5', '1', '9', '6'] -> 86 -> sum: 1246
+8ninetvnsrcsbpn
+ -> ['8', '9'] -> 89 -> sum: 1335
+two43one
+ -> ['2', '4', '3', '1'] -> 21 -> sum: 1356
+8vfvbrnclnmthree8onetwoeightthree
+ -> ['8', '3', '8', '1', '2', '8', '3'] -> 83 -> sum: 1439
+one2czxjgbzsn46ktj8twones
+ -> ['1', '2', '4', '6', '8', '2', '1'] -> 11 -> sum: 1450
+qfnlfivemqninextzppkfkb8
+ -> ['5', '9', '8'] -> 58 -> sum: 1508
+ntvcmxsevengxdtc3five
+ -> ['7', '3', '5'] -> 75 -> sum: 1583
+8lsfkbbxkscc
+ -> ['8'] -> 88 -> sum: 1671
+seven5817smvjfpdktwo6mdfngz
+ -> ['7', '5', '8', '1', '7', '2', '6'] -> 76 -> sum: 1747
+92hqxbchfpnine
+ -> ['9', '2', '9'] -> 99 -> sum: 1846
+tvxbltz53oneninethreeonek9
+ -> ['5', '3', '1', '9', '3', '1', '9'] -> 59 -> sum: 1905
+hvvjhd1
+ -> ['1'] -> 11 -> sum: 1916
+six1six7sevensixqcvhsfour7
+ -> ['6', '1', '6', '7', '7', '6', '4', '7'] -> 67 -> sum: 1983
+seventwo2
+ -> ['7', '2', '2'] -> 72 -> sum: 2055
+2svpbhrlhfjhbkf3fourvvspkfmbvztmtpcxndfnine9
+ -> ['2', '3', '4', '9', '9'] -> 29 -> sum: 2084
+fivefour42
+ -> ['5', '4', '4', '2'] -> 52 -> sum: 2136
+sixvstzdtfive3qzmbbx
+ -> ['6', '5', '3'] -> 63 -> sum: 2199
+rfcxmthzlgxgrmjncszdvlnp6
+ -> ['6'] -> 66 -> sum: 2265
+lhlncfjlhrqrfzr1
+ -> ['1'] -> 11 -> sum: 2276
+cqnkmtfj5
+ -> ['5'] -> 55 -> sum: 2331
+tctfngvrxljlt53pntbcfrftjpjvzqbqxh
+ -> ['5', '3'] -> 53 -> sum: 2384
+6fgcdfive
+ -> ['6', '5'] -> 65 -> sum: 2449
+4834sevenvssix1eight
+ -> ['4', '8', '3', '4', '7', '6', '1', '8'] -> 48 -> sum: 2497
+rpxcthbpmhgrcxk4
+ -> ['4'] -> 44 -> sum: 2541
+threecthhnine781
+ -> ['3', '9', '7', '8', '1'] -> 31 -> sum: 2572
+pppqkscmthreeseven1sixfive
+ -> ['3', '7', '1', '6', '5'] -> 35 -> sum: 2607
+2tgrmvxpthree6
+ -> ['2', '3', '6'] -> 26 -> sum: 2633
+7ckxjmlpkqqqjtfiveeightbmmdoneighttnv
+ -> ['7', '5', '8', '1', '8'] -> 78 -> sum: 2711
+six2two
+ -> ['6', '2', '2'] -> 62 -> sum: 2773
+lsshzhtdfour24
+ -> ['4', '2', '4'] -> 44 -> sum: 2817
+mrjjgzsb92fivetwoxh3
+ -> ['9', '2', '5', '2', '3'] -> 93 -> sum: 2910
+5fourcqhk3two85fiveeight
+ -> ['5', '4', '3', '2', '8', '5', '5', '8'] -> 58 -> sum: 2968
+lsxpkxfmq97one
+ -> ['9', '7', '1'] -> 91 -> sum: 3059
+b87twosshtxkkplq5zkrrqcmfn
+ -> ['8', '7', '2', '5'] -> 85 -> sum: 3144
+threeqsnd64hthreeldbtfkqpbqpdlmtwo
+ -> ['3', '6', '4', '3', '2'] -> 32 -> sum: 3176
+eight2one
+ -> ['8', '2', '1'] -> 81 -> sum: 3257
+14r
+ -> ['1', '4'] -> 14 -> sum: 3271
+71fourzrmsevenseven9
+ -> ['7', '1', '4', '7', '7', '9'] -> 79 -> sum: 3350
+threesixmmcjzzml4
+ -> ['3', '6', '4'] -> 34 -> sum: 3384
+stnmbsix41
+ -> ['6', '4', '1'] -> 61 -> sum: 3445
+cztnnflpcl4txplfour
+ -> ['4', '4'] -> 44 -> sum: 3489
+five6six4kxv
+ -> ['5', '6', '6', '4'] -> 54 -> sum: 3543
+5oneqmmbnvgvbq6vsncbrjrsix7eightpzkhvrjz
+ -> ['5', '1', '6', '6', '7', '8'] -> 58 -> sum: 3601
+kflckfgxfeightlr37fourfiveseven
+ -> ['8', '3', '7', '4', '5', '7'] -> 87 -> sum: 3688
+9three7three
+ -> ['9', '3', '7', '3'] -> 93 -> sum: 3781
+rkxbqnine7onevvqgzcvvjthreendkddfournine
+ -> ['9', '7', '1', '3', '4', '9'] -> 99 -> sum: 3880
+fzzfstwo44vm
+ -> ['2', '4', '4'] -> 24 -> sum: 3904
+19648
+ -> ['1', '9', '6', '4', '8'] -> 18 -> sum: 3922
+7fivesixhdxhlgmv9
+ -> ['7', '5', '6', '9'] -> 79 -> sum: 4001
+six9hzlctfiveonefour
+ -> ['6', '9', '5', '1', '4'] -> 64 -> sum: 4065
+66eightthree4nine
+ -> ['6', '6', '8', '3', '4', '9'] -> 69 -> sum: 4134
+jcgk8three
+ -> ['8', '3'] -> 83 -> sum: 4217
+tbctwonefive2eightsixbntmjceight
+ -> ['2', '1', '5', '2', '8', '6', '8'] -> 28 -> sum: 4245
+ninemrqkzsevengvq6
+ -> ['9', '7', '6'] -> 96 -> sum: 4341
+rsmmpmrlmq92fourfour453four
+ -> ['9', '2', '4', '4', '4', '5', '3', '4'] -> 94 -> sum: 4435
+6eightbmjhnpbgnccfninefonenineglkfgp
+ -> ['6', '8', '9', '1', '9'] -> 69 -> sum: 4504
+8onefive7kn
+ -> ['8', '1', '5', '7'] -> 87 -> sum: 4591
+eightrgzfdksevenftbvkt455oneightnl
+ -> ['8', '7', '4', '5', '5', '1', '8'] -> 88 -> sum: 4679
+3vxtwogxpdhjmqskjc
+ -> ['3', '2'] -> 32 -> sum: 4711
+shzvnlgvvvthreenkv14eightbcmjd
+ -> ['3', '1', '4', '8'] -> 38 -> sum: 4749
+2sevenlbq
+ -> ['2', '7'] -> 27 -> sum: 4776
+1zfjpz1mdfourstvj7zpfxxlqf
+ -> ['1', '1', '4', '7'] -> 17 -> sum: 4793
+twogm22trvplbsk29rbjtvctqr
+ -> ['2', '2', '2', '2', '9'] -> 29 -> sum: 4822
+twoqpgcbskdgh2tktbbpnzll7twoxljpdhthree
+ -> ['2', '2', '7', '2', '3'] -> 23 -> sum: 4845
+5nineeight6
+ -> ['5', '9', '8', '6'] -> 56 -> sum: 4901
+936
+ -> ['9', '3', '6'] -> 96 -> sum: 4997
+218ptffour
+ -> ['2', '1', '8', '4'] -> 24 -> sum: 5021
+1clztnnsix1
+ -> ['1', '6', '1'] -> 11 -> sum: 5032
+bsevengsxbpjmbg5eight
+ -> ['7', '5', '8'] -> 78 -> sum: 5110
+1cpeighteightpb
+ -> ['1', '8', '8'] -> 18 -> sum: 5128
+vrlnveight2twopxmtwo
+ -> ['8', '2', '2', '2'] -> 82 -> sum: 5210
+fgrjr8six
+ -> ['8', '6'] -> 86 -> sum: 5296
+5sevenspppgjtxbtqlzt
+ -> ['5', '7'] -> 57 -> sum: 5353
+5sixczhncsix2qcqsevenfive4
+ -> ['5', '6', '6', '2', '7', '5', '4'] -> 54 -> sum: 5407
+kgcdpqclsggzm79nine
+ -> ['7', '9', '9'] -> 79 -> sum: 5486
+eighteightone6sevensixthree
+ -> ['8', '8', '1', '6', '7', '6', '3'] -> 83 -> sum: 5569
+92eight7plhftxkntl1two
+ -> ['9', '2', '8', '7', '1', '2'] -> 92 -> sum: 5661
+5dqrhhqrrgmvrqznbgx4three3
+ -> ['5', '4', '3', '3'] -> 53 -> sum: 5714
+twoone953cdkm5stzdbdh
+ -> ['2', '1', '9', '5', '3', '5'] -> 25 -> sum: 5739
+heightwothreennzljtptwo94
+ -> ['8', '2', '3', '2', '9', '4'] -> 84 -> sum: 5823
+6sevensevenfoursix5nine
+ -> ['6', '7', '7', '4', '6', '5', '9'] -> 69 -> sum: 5892
+cnbslkngtk9five58xpqvgjpqrnpjnzbk
+ -> ['9', '5', '5', '8'] -> 98 -> sum: 5990
+onebrcg1bnfivekftnzpclqxvhchloneightzrn
+ -> ['1', '1', '5', '1', '8'] -> 18 -> sum: 6008
+four855dpknm
+ -> ['4', '8', '5', '5'] -> 45 -> sum: 6053
+4hkdseventggkffhrkvsixcrsqjsix9
+ -> ['4', '7', '6', '6', '9'] -> 49 -> sum: 6102
+8seventwo
+ -> ['8', '7', '2'] -> 82 -> sum: 6184
+two9sixthree9cdrmqntmcv
+ -> ['2', '9', '6', '3', '9'] -> 29 -> sum: 6213
+525tg4h
+ -> ['5', '2', '5', '4'] -> 54 -> sum: 6267
+five7kxrlmq1bzhdmhtgglmvzrtfbqqd3
+ -> ['5', '7', '1', '3'] -> 53 -> sum: 6320
+bnbbsbhlcbktsqlpq69ninesfxhq
+ -> ['6', '9', '9'] -> 69 -> sum: 6389
+gndxnlmnrmnk29qkfxfoursnnbvjtq
+ -> ['2', '9', '4'] -> 24 -> sum: 6413
+5bzppjrgcpk
+ -> ['5'] -> 55 -> sum: 6468
+2three79pmgtcgmtdf2fjh
+ -> ['2', '3', '7', '9', '2'] -> 22 -> sum: 6490
+sixmmpbmtznseven62
+ -> ['6', '7', '6', '2'] -> 62 -> sum: 6552
+4rrm
+ -> ['4'] -> 44 -> sum: 6596
+ztlthreesix28ninesix
+ -> ['3', '6', '2', '8', '9', '6'] -> 36 -> sum: 6632
+j7fourfourfbrlxplk
+ -> ['7', '4', '4'] -> 74 -> sum: 6706
+zjhrqtqsix1
+ -> ['6', '1'] -> 61 -> sum: 6767
+4three6hhndrlszfrgphcbonenxfive
+ -> ['4', '3', '6', '1', '5'] -> 45 -> sum: 6812
+jmg8hfsxfsvdxz3four7jfbczjmdhbpn
+ -> ['8', '3', '4', '7'] -> 87 -> sum: 6899
+39ptfzqjfpnpxrnf7eight
+ -> ['3', '9', '7', '8'] -> 38 -> sum: 6937
+three6jrcrgpfxg8vxgk8
+ -> ['3', '6', '8', '8'] -> 38 -> sum: 6975
+57kvbczxn5eightfour
+ -> ['5', '7', '5', '8', '4'] -> 54 -> sum: 7029
+8xbdbrbpjp
+ -> ['8'] -> 88 -> sum: 7117
+sixtrhhl2tktvvmkffl5
+ -> ['6', '2', '5'] -> 65 -> sum: 7182
+three6fgsjtmnine54sm5k
+ -> ['3', '6', '9', '5', '4', '5'] -> 35 -> sum: 7217
+ninenine3stfpft2nine
+ -> ['9', '9', '3', '2', '9'] -> 99 -> sum: 7316
+one61onenrhmtwos
+ -> ['1', '6', '1', '1', '2'] -> 12 -> sum: 7328
+pzdq8
+ -> ['8'] -> 88 -> sum: 7416
+pltd9sjdkrscxr25
+ -> ['9', '2', '5'] -> 95 -> sum: 7511
+dzsldkmzd1
+ -> ['1'] -> 11 -> sum: 7522
+vlvpfmz24sevenshcrvx389one
+ -> ['2', '4', '7', '3', '8', '9', '1'] -> 21 -> sum: 7543
+1rfvlnmfkdbmdjj
+ -> ['1'] -> 11 -> sum: 7554
+sixbzzbftqggn8zggtbcd
+ -> ['6', '8'] -> 68 -> sum: 7622
+hzxzjhkvd5twofivedxfdlrdeighttwo
+ -> ['5', '2', '5', '8', '2'] -> 52 -> sum: 7674
+six9nlgcdznskrsb
+ -> ['6', '9'] -> 69 -> sum: 7743
+sixrxkfhvsjxzbt4fivenineninenine
+ -> ['6', '4', '5', '9', '9', '9'] -> 69 -> sum: 7812
+dsbmqpgmf8nine634two
+ -> ['8', '9', '6', '3', '4', '2'] -> 82 -> sum: 7894
+fourknfzpthpf1
+ -> ['4', '1'] -> 41 -> sum: 7935
+two9twovbmldd
+ -> ['2', '9', '2'] -> 22 -> sum: 7957
+5zgnnrxtwo2two2
+ -> ['5', '2', '2', '2', '2'] -> 52 -> sum: 8009
+fivezfvzfdxkmrbvtpdhqbmdhcthreedvlstmq28
+ -> ['5', '3', '2', '8'] -> 58 -> sum: 8067
+ppfqqq75seven954
+ -> ['7', '5', '7', '9', '5', '4'] -> 74 -> sum: 8141
+sgtjpsix3
+ -> ['6', '3'] -> 63 -> sum: 8204
+twospnc9cnchkzthreegj
+ -> ['2', '9', '3'] -> 23 -> sum: 8227
+3eightwoqs
+ -> ['3', '8', '2'] -> 32 -> sum: 8259
+goneightghmkgksqfk2two2six
+ -> ['1', '8', '2', '2', '2', '6'] -> 16 -> sum: 8275
+sixthree6bjzpqlsbgq2rkbffxtmprpddkxv
+ -> ['6', '3', '6', '2'] -> 62 -> sum: 8337
+rkv43
+ -> ['4', '3'] -> 43 -> sum: 8380
+bzfnbq8onefourthree4
+ -> ['8', '1', '4', '3', '4'] -> 84 -> sum: 8464
+3mqvr
+ -> ['3'] -> 33 -> sum: 8497
+fiveninefflpllcqzonejqqbtwofive43
+ -> ['5', '9', '1', '2', '5', '4', '3'] -> 53 -> sum: 8550
+tvoneightfour3three5
+ -> ['1', '8', '4', '3', '3', '5'] -> 15 -> sum: 8565
+mvhlv6bzbjggrsvvxh4dfcpmrnhnq4
+ -> ['6', '4', '4'] -> 64 -> sum: 8629
+fcrsmfmpnmkfs3fivekblglhqmvfourchc7
+ -> ['3', '5', '4', '7'] -> 37 -> sum: 8666
+svfmfbdrgd81one4
+ -> ['8', '1', '1', '4'] -> 84 -> sum: 8750
+mf7threetwo8nine1
+ -> ['7', '3', '2', '8', '9', '1'] -> 71 -> sum: 8821
+qngfr4gnnxbszqzsixp
+ -> ['4', '6'] -> 46 -> sum: 8867
+px5gfx7two5seven9
+ -> ['5', '7', '2', '5', '7', '9'] -> 59 -> sum: 8926
+4gp
+ -> ['4'] -> 44 -> sum: 8970
+8lxkgvpzxch6
+ -> ['8', '6'] -> 86 -> sum: 9056
+3mdgqrvtgnthqnhpxteightfour
+ -> ['3', '8', '4'] -> 34 -> sum: 9090
+onethree899btbpjnxxjhone
+ -> ['1', '3', '8', '9', '9', '1'] -> 11 -> sum: 9101
+fnjdzx5vrzc
+ -> ['5'] -> 55 -> sum: 9156
+four5twofour
+ -> ['4', '5', '2', '4'] -> 44 -> sum: 9200
+9fivetwo2
+ -> ['9', '5', '2', '2'] -> 92 -> sum: 9292
+threezlpsdhxvdlfpsvkxxnnine3
+ -> ['3', '9', '3'] -> 33 -> sum: 9325
+hvnnq9two2fourpdjv
+ -> ['9', '2', '2', '4'] -> 94 -> sum: 9419
+bvjkdg9four1
+ -> ['9', '4', '1'] -> 91 -> sum: 9510
+2412
+ -> ['2', '4', '1', '2'] -> 22 -> sum: 9532
+threethreeszmhdndctj1eight8lcqtwo3
+ -> ['3', '3', '1', '8', '8', '2', '3'] -> 33 -> sum: 9565
+cdnmjmxqrz6vrkkxtfour8cc
+ -> ['6', '4', '8'] -> 68 -> sum: 9633
+njldrqggdnfsix5
+ -> ['6', '5'] -> 65 -> sum: 9698
+9csxcksh6three697
+ -> ['9', '6', '3', '6', '9', '7'] -> 97 -> sum: 9795
+92four2sr32
+ -> ['9', '2', '4', '2', '3', '2'] -> 92 -> sum: 9887
+3jdpqdjjct44oneone75pjgkgv
+ -> ['3', '4', '4', '1', '1', '7', '5'] -> 35 -> sum: 9922
+576sreighttwosixxzqmj7
+ -> ['5', '7', '6', '8', '2', '6', '7'] -> 57 -> sum: 9979
+twoscdxdlfddmfive54
+ -> ['2', '5', '5', '4'] -> 24 -> sum: 10003
+ninefiveznine33
+ -> ['9', '5', '9', '3', '3'] -> 93 -> sum: 10096
+threenffnvx3
+ -> ['3', '3'] -> 33 -> sum: 10129
+916tpsgsxmtml8
+ -> ['9', '1', '6', '8'] -> 98 -> sum: 10227
+6five3
+ -> ['6', '5', '3'] -> 63 -> sum: 10290
+fdztvpctnr5dmbjnrjslr
+ -> ['5'] -> 55 -> sum: 10345
+16four
+ -> ['1', '6', '4'] -> 14 -> sum: 10359
+4oneightk
+ -> ['4', '1', '8'] -> 48 -> sum: 10407
+three5fouronenm
+ -> ['3', '5', '4', '1'] -> 31 -> sum: 10438
+threezrksvlbdb891zfbbcdrbpd7
+ -> ['3', '8', '9', '1', '7'] -> 37 -> sum: 10475
+five821ndfftdbmbr3nine
+ -> ['5', '8', '2', '1', '3', '9'] -> 59 -> sum: 10534
+ninehvdxftmgcvnkrlrvmmbb4nine
+ -> ['9', '4', '9'] -> 99 -> sum: 10633
+xkkzphgfv1two
+ -> ['1', '2'] -> 12 -> sum: 10645
+3pm
+ -> ['3'] -> 33 -> sum: 10678
+ninetwobtjxdvnhv12
+ -> ['9', '2', '1', '2'] -> 92 -> sum: 10770
+fiverbkmfbx8fiveeightksjzphkrj23rdlrtnb
+ -> ['5', '8', '5', '8', '2', '3'] -> 53 -> sum: 10823
+kseightwo2fivesix
+ -> ['8', '2', '2', '5', '6'] -> 86 -> sum: 10909
+5snpchthree3
+ -> ['5', '3', '3'] -> 53 -> sum: 10962
+71oneone
+ -> ['7', '1', '1', '1'] -> 71 -> sum: 11033
+6frxncksfxboneftdpvmnfdfxreighthrmnqc8
+ -> ['6', '1', '8', '8'] -> 68 -> sum: 11101
+two48mhgdtlp246four3
+ -> ['2', '4', '8', '2', '4', '6', '4', '3'] -> 23 -> sum: 11124
+993three8
+ -> ['9', '9', '3', '3', '8'] -> 98 -> sum: 11222
+threenine7twohbmcrpd
+ -> ['3', '9', '7', '2'] -> 32 -> sum: 11254
+9bpdccqbts
+ -> ['9'] -> 99 -> sum: 11353
+kptwonejntgcdqdfffour4twobvtxnhqkl7
+ -> ['2', '1', '4', '4', '2', '7'] -> 27 -> sum: 11380
+1637sevenfour
+ -> ['1', '6', '3', '7', '7', '4'] -> 14 -> sum: 11394
+soneight6lbcrzdmhltpbkbjfivechxzfrqqgfeight
+ -> ['1', '8', '6', '5', '8'] -> 18 -> sum: 11412
+99five3hjvjrdmgl
+ -> ['9', '9', '5', '3'] -> 93 -> sum: 11505
+qncqlreighthkfmbbfqx87five3
+ -> ['8', '8', '7', '5', '3'] -> 83 -> sum: 11588
+7jqkdsfour
+ -> ['7', '4'] -> 74 -> sum: 11662
+ninemmvcxlkcrg1
+ -> ['9', '1'] -> 91 -> sum: 11753
+mkdhgzcvmseven3onesnkhtxbgf7threestvjqn
+ -> ['7', '3', '1', '7', '3'] -> 73 -> sum: 11826
+nttgqsmsl4five1eighttwo9zg
+ -> ['4', '5', '1', '8', '2', '9'] -> 49 -> sum: 11875
+one2ninefour5
+ -> ['1', '2', '9', '4', '5'] -> 15 -> sum: 11890
+bdfbveightseven1lcrshdgxznineeight
+ -> ['8', '7', '1', '9', '8'] -> 88 -> sum: 11978
+qsnvsonezqhsjmfive9one
+ -> ['1', '5', '9', '1'] -> 11 -> sum: 11989
+6kvdrgkgznf1cmklmxgnine6
+ -> ['6', '1', '9', '6'] -> 66 -> sum: 12055
+xkmzzdpknl661
+ -> ['6', '6', '1'] -> 61 -> sum: 12116
+ninefoursix7gnbmzd37
+ -> ['9', '4', '6', '7', '3', '7'] -> 97 -> sum: 12213
+mmxmfnsrmt2bnhkmftxnjsix
+ -> ['2', '6'] -> 26 -> sum: 12239
+fmhsrdtnrxlqgjttlgvmqxgzpl756sixllmdvblrvrrzkqgb
+ -> ['7', '5', '6', '6'] -> 76 -> sum: 12315
+7xmppbvd976dqt87
+ -> ['7', '9', '7', '6', '8', '7'] -> 77 -> sum: 12392
+fourzdctfglzzf1xdbfmrbfeightwor
+ -> ['4', '1', '8', '2'] -> 42 -> sum: 12434
+8thncgqzvr989lthreeseven
+ -> ['8', '9', '8', '9', '3', '7'] -> 87 -> sum: 12521
+5qmrzeight169
+ -> ['5', '8', '1', '6', '9'] -> 59 -> sum: 12580
+4qgvkmninegcsdgcthsp62onehczjhdxcgm
+ -> ['4', '9', '6', '2', '1'] -> 41 -> sum: 12621
+25tlppkmctwo2
+ -> ['2', '5', '2', '2'] -> 22 -> sum: 12643
+668four4
+ -> ['6', '6', '8', '4', '4'] -> 64 -> sum: 12707
+rjbxtvfktchflstwo639one4
+ -> ['2', '6', '3', '9', '1', '4'] -> 24 -> sum: 12731
+seven6eight4onehfztk
+ -> ['7', '6', '8', '4', '1'] -> 71 -> sum: 12802
+five53
+ -> ['5', '5', '3'] -> 53 -> sum: 12855
+nine33threethree3pznjbtxjmrrxm
+ -> ['9', '3', '3', '3', '3', '3'] -> 93 -> sum: 12948
+19six
+ -> ['1', '9', '6'] -> 16 -> sum: 12964
+fivethreefivegxcqflqhjrn3fivehcn
+ -> ['5', '3', '5', '3', '5'] -> 55 -> sum: 13019
+vpbntqnpkjfninesix6341
+ -> ['9', '6', '6', '3', '4', '1'] -> 91 -> sum: 13110
+7eightb7
+ -> ['7', '8', '7'] -> 77 -> sum: 13187
+bktffkqsx6fzvpnjhk
+ -> ['6'] -> 66 -> sum: 13253
+38jrjprtwo628
+ -> ['3', '8', '2', '6', '2', '8'] -> 38 -> sum: 13291
+77tplflrp7
+ -> ['7', '7', '7'] -> 77 -> sum: 13368
+4one9one6
+ -> ['4', '1', '9', '1', '6'] -> 46 -> sum: 13414
+pkdhkbxrbshccxgknrjgseven44
+ -> ['7', '4', '4'] -> 74 -> sum: 13488
+49rthxdvlmeight
+ -> ['4', '9', '8'] -> 48 -> sum: 13536
+5twodhkpfn1
+ -> ['5', '2', '1'] -> 51 -> sum: 13587
+znine2fbsmeighttwo7
+ -> ['9', '2', '8', '2', '7'] -> 97 -> sum: 13684
+5ninexvmg
+ -> ['5', '9'] -> 59 -> sum: 13743
+dbjbfmqtkp66
+ -> ['6', '6'] -> 66 -> sum: 13809
+mdsrdjdnxkzr3xfm
+ -> ['3'] -> 33 -> sum: 13842
+two9twofive3
+ -> ['2', '9', '2', '5', '3'] -> 23 -> sum: 13865
+9kfivetg2five18
+ -> ['9', '5', '2', '5', '1', '8'] -> 98 -> sum: 13963
+6fivenine2
+ -> ['6', '5', '9', '2'] -> 62 -> sum: 14025
+2dlgpxsq7sixone6
+ -> ['2', '7', '6', '1', '6'] -> 26 -> sum: 14051
+tnqxgjbnc9bhqbgtwodxssml
+ -> ['9', '2'] -> 92 -> sum: 14143
+18sixcjthreetdtprgsix
+ -> ['1', '8', '6', '3', '6'] -> 16 -> sum: 14159
+65sevenfive9nine4seven
+ -> ['6', '5', '7', '5', '9', '9', '4', '7'] -> 67 -> sum: 14226
+nine34fiveqjdqc
+ -> ['9', '3', '4', '5'] -> 95 -> sum: 14321
+threetzvxrb5vspdhrmjcnhtrzkqhd4
+ -> ['3', '5', '4'] -> 34 -> sum: 14355
+67nine8jrxt39
+ -> ['6', '7', '9', '8', '3', '9'] -> 69 -> sum: 14424
+443oneklzsrtwo4tbbvxblk
+ -> ['4', '4', '3', '1', '2', '4'] -> 44 -> sum: 14468
+xp7fourseven
+ -> ['7', '4', '7'] -> 77 -> sum: 14545
+ktsrninemlldztwo5ghqfgh55
+ -> ['9', '2', '5', '5', '5'] -> 95 -> sum: 14640
+five6eighteight7mtstgjlqmngzonetwonec
+ -> ['5', '6', '8', '8', '7', '1', '2', '1'] -> 51 -> sum: 14691
+rmfourseventwothreedjtvf9
+ -> ['4', '7', '2', '3', '9'] -> 49 -> sum: 14740
+rlsgqhhvcdvthreekzjdssslmsixfour5rxk5
+ -> ['3', '6', '4', '5', '5'] -> 35 -> sum: 14775
+sgnfjqm4fivefiveone87nine
+ -> ['4', '5', '5', '1', '8', '7', '9'] -> 49 -> sum: 14824
+6twoonefive
+ -> ['6', '2', '1', '5'] -> 65 -> sum: 14889
+sevenrftrnqrjs1
+ -> ['7', '1'] -> 71 -> sum: 14960
+bcfgjklzfbnineninefivesrpcqtwo4
+ -> ['9', '9', '5', '2', '4'] -> 94 -> sum: 15054
+threek7seven1fxslmvnhmffqqvbfbhlceight
+ -> ['3', '7', '7', '1', '8'] -> 38 -> sum: 15092
+sixxzqz9fivethjgdv2
+ -> ['6', '9', '5', '2'] -> 62 -> sum: 15154
+nineonefivesixtcrjd5
+ -> ['9', '1', '5', '6', '5'] -> 95 -> sum: 15249
+5645ptsjfrszgr8
+ -> ['5', '6', '4', '5', '8'] -> 58 -> sum: 15307
+1threezkpgczxr8four3oneqm
+ -> ['1', '3', '8', '4', '3', '1'] -> 11 -> sum: 15318
+tvlfrfcnlc56eight8ninesix7seven
+ -> ['5', '6', '8', '8', '9', '6', '7', '7'] -> 57 -> sum: 15375
+7clvmrdvdgjg
+ -> ['7'] -> 77 -> sum: 15452
+7mcstlktwo
+ -> ['7', '2'] -> 72 -> sum: 15524
+dlxlpchr3eight
+ -> ['3', '8'] -> 38 -> sum: 15562
+3ninelrzgkhx85
+ -> ['3', '9', '8', '5'] -> 35 -> sum: 15597
+jlkqzonefourrvlptlxxgrthree4six
+ -> ['1', '4', '3', '4', '6'] -> 16 -> sum: 15613
+rxhpprsqtd982t
+ -> ['9', '8', '2'] -> 92 -> sum: 15705
+six4671nineonesix9
+ -> ['6', '4', '6', '7', '1', '9', '1', '6', '9'] -> 69 -> sum: 15774
+eightsixtm9vngskjglgvrbsqgcmxczbqqvxqxfj
+ -> ['8', '6', '9'] -> 89 -> sum: 15863
+vxfmc1six1ninesixnine
+ -> ['1', '6', '1', '9', '6', '9'] -> 19 -> sum: 15882
+39fivesixthreevmpm4
+ -> ['3', '9', '5', '6', '3', '4'] -> 34 -> sum: 15916
+xllclztxcxjskgfourlvggrvr25fourthree9
+ -> ['4', '2', '5', '4', '3', '9'] -> 49 -> sum: 15965
+31sevensixninedpfrvvfftc
+ -> ['3', '1', '7', '6', '9'] -> 39 -> sum: 16004
+three64ctshdpcsfdjth95
+ -> ['3', '6', '4', '9', '5'] -> 35 -> sum: 16039
+fourgcqf8sixfivepsrdqvrld
+ -> ['4', '8', '6', '5'] -> 45 -> sum: 16084
+5nine1qldrqhvfour
+ -> ['5', '9', '1', '4'] -> 54 -> sum: 16138
+5three1three
+ -> ['5', '3', '1', '3'] -> 53 -> sum: 16191
+6hjbgdqjtlppzoneninesevenqlmvgkq
+ -> ['6', '1', '9', '7'] -> 67 -> sum: 16258
+eight1three6sixthree5two9
+ -> ['8', '1', '3', '6', '6', '3', '5', '2', '9'] -> 89 -> sum: 16347
+17141oner
+ -> ['1', '7', '1', '4', '1', '1'] -> 11 -> sum: 16358
+five1two7
+ -> ['5', '1', '2', '7'] -> 57 -> sum: 16415
+sxcfxblvfbtdtlkdpnineztnsfdkmeightvrr7fivejj
+ -> ['9', '8', '7', '5'] -> 95 -> sum: 16510
+eight183krc8nkqk
+ -> ['8', '1', '8', '3', '8'] -> 88 -> sum: 16598
+sixthree38fourkgfbbv2sixsix
+ -> ['6', '3', '3', '8', '4', '2', '6', '6'] -> 66 -> sum: 16664
+922threeeight4moneightsm
+ -> ['9', '2', '2', '3', '8', '4', '1', '8'] -> 98 -> sum: 16762
+3threefive8bdzjs
+ -> ['3', '3', '5', '8'] -> 38 -> sum: 16800
+onechvnhrfthreebqfive9
+ -> ['1', '3', '5', '9'] -> 19 -> sum: 16819
+8sixgkvzgnfkjrrxrxvbvgvx
+ -> ['8', '6'] -> 86 -> sum: 16905
+meightwo1dnbbpzrxftwo8
+ -> ['8', '2', '1', '2', '8'] -> 88 -> sum: 16993
+253lqt1bzfpqznz
+ -> ['2', '5', '3', '1'] -> 21 -> sum: 17014
+klsgclc549rbksgrbbh56
+ -> ['5', '4', '9', '5', '6'] -> 56 -> sum: 17070
+3xksqcrhdsthree
+ -> ['3', '3'] -> 33 -> sum: 17103
+55nxbjvps3nbmf
+ -> ['5', '5', '3'] -> 53 -> sum: 17156
+7qzzfourtwo1688
+ -> ['7', '4', '2', '1', '6', '8', '8'] -> 78 -> sum: 17234
+h5skqsrnnpxdone5fivefourkffrsblv
+ -> ['5', '1', '5', '5', '4'] -> 54 -> sum: 17288
+3fourfive2
+ -> ['3', '4', '5', '2'] -> 32 -> sum: 17320
+25stdpqvgmzg9qksix5three
+ -> ['2', '5', '9', '6', '5', '3'] -> 23 -> sum: 17343
+fivenxhkvbscrxx1j4
+ -> ['5', '1', '4'] -> 54 -> sum: 17397
+dtszrbcgpgxbh1
+ -> ['1'] -> 11 -> sum: 17408
+fivefvrp159three
+ -> ['5', '1', '5', '9', '3'] -> 53 -> sum: 17461
+68mdjsggnbtwokmthtwo286
+ -> ['6', '8', '2', '2', '2', '8', '6'] -> 66 -> sum: 17527
+xtwone7bkhjqkmmdkxvqtxfkpmckj5
+ -> ['2', '1', '7', '5'] -> 25 -> sum: 17552
+btwonetjkkdfqphr2gkknfz7one
+ -> ['2', '1', '2', '7', '1'] -> 21 -> sum: 17573
+ninejgnxcchjqsevennvdjvttnqqsix6
+ -> ['9', '7', '6', '6'] -> 96 -> sum: 17669
+395seveneight
+ -> ['3', '9', '5', '7', '8'] -> 38 -> sum: 17707
+lfrsoneoneeightfour6
+ -> ['1', '1', '8', '4', '6'] -> 16 -> sum: 17723
+four9prvhcqdnrgjl
+ -> ['4', '9'] -> 49 -> sum: 17772
+qhbkninefive73six8
+ -> ['9', '5', '7', '3', '6', '8'] -> 98 -> sum: 17870
+sixkqjtrs1hrmnt
+ -> ['6', '1'] -> 61 -> sum: 17931
+5lmctnqtqc49eightnt
+ -> ['5', '4', '9', '8'] -> 58 -> sum: 17989
+sixghthgcnpfeightseventwo3
+ -> ['6', '8', '7', '2', '3'] -> 63 -> sum: 18052
+vvvjbvnjfeight41nine
+ -> ['8', '4', '1', '9'] -> 89 -> sum: 18141
+9gkxpcrql9three4
+ -> ['9', '9', '3', '4'] -> 94 -> sum: 18235
+65seven4eightmjnh2gbjjstdgb
+ -> ['6', '5', '7', '4', '8', '2'] -> 62 -> sum: 18297
+8four68seventhree
+ -> ['8', '4', '6', '8', '7', '3'] -> 83 -> sum: 18380
+19924nine1lxnfzgt
+ -> ['1', '9', '9', '2', '4', '9', '1'] -> 11 -> sum: 18391
+fgjtbsfour4nine4vqfznznqxnsevenvzn
+ -> ['4', '4', '9', '4', '7'] -> 47 -> sum: 18438
+fiveone9bzshjmdvdsixxknhmmqskone8
+ -> ['5', '1', '9', '6', '1', '8'] -> 58 -> sum: 18496
+xqjzgmdmnfivefourthreemmksmdsix6cct
+ -> ['5', '4', '3', '6', '6'] -> 56 -> sum: 18552
+eightklfnlkb9
+ -> ['8', '9'] -> 89 -> sum: 18641
+rmtsdblmcghszsfgd66seven1bct
+ -> ['6', '6', '7', '1'] -> 61 -> sum: 18702
+twoseven6
+ -> ['2', '7', '6'] -> 26 -> sum: 18728
+psbfmmmrppdfm5ninetwosixnine
+ -> ['5', '9', '2', '6', '9'] -> 59 -> sum: 18787
+rkcgdnslc9pjtqvgdmbvpkbbksxgr
+ -> ['9'] -> 99 -> sum: 18886
+mxjpns69
+ -> ['6', '9'] -> 69 -> sum: 18955
+rspjpcv4fourthreesixfourninevlfive
+ -> ['4', '4', '3', '6', '4', '9', '5'] -> 45 -> sum: 19000
+2dgjgdn
+ -> ['2'] -> 22 -> sum: 19022
+66five8qxeight
+ -> ['6', '6', '5', '8', '8'] -> 68 -> sum: 19090
+five93
+ -> ['5', '9', '3'] -> 53 -> sum: 19143
+six7twovssixsixztrmfdrrvgqtdhmh7
+ -> ['6', '7', '2', '6', '6', '7'] -> 67 -> sum: 19210
+32sqltqgoneightd
+ -> ['3', '2', '1', '8'] -> 38 -> sum: 19248
+4five8tns1six
+ -> ['4', '5', '8', '1', '6'] -> 46 -> sum: 19294
+277
+ -> ['2', '7', '7'] -> 27 -> sum: 19321
+pmrzrckf6
+ -> ['6'] -> 66 -> sum: 19387
+8rglvpcttwo1twofive
+ -> ['8', '2', '1', '2', '5'] -> 85 -> sum: 19472
+fivethree644hrphp
+ -> ['5', '3', '6', '4', '4'] -> 54 -> sum: 19526
+fdpjb6
+ -> ['6'] -> 66 -> sum: 19592
+dfkpmgxfgfmtklbffk4sevenfive
+ -> ['4', '7', '5'] -> 45 -> sum: 19637
+nhqfpnvpsqpffour6neightfour
+ -> ['4', '6', '8', '4'] -> 44 -> sum: 19681
+threeseven9eight67three8five
+ -> ['3', '7', '9', '8', '6', '7', '3', '8', '5'] -> 35 -> sum: 19716
+txttqnnineonefiveninesixlbscpqp1
+ -> ['9', '1', '5', '9', '6', '1'] -> 91 -> sum: 19807
+three2sixtwotwo7smkmq5
+ -> ['3', '2', '6', '2', '2', '7', '5'] -> 35 -> sum: 19842
+8bjzjrnpspnine5
+ -> ['8', '9', '5'] -> 85 -> sum: 19927
+5three659fourfour
+ -> ['5', '3', '6', '5', '9', '4', '4'] -> 54 -> sum: 19981
+qrdrk7fouroneseven
+ -> ['7', '4', '1', '7'] -> 77 -> sum: 20058
+three7threevhct
+ -> ['3', '7', '3'] -> 33 -> sum: 20091
+mpjpgfbt8five6fqjbghvbpcnine
+ -> ['8', '5', '6', '9'] -> 89 -> sum: 20180
+7zonesevenzmlvfvzn
+ -> ['7', '1', '7'] -> 77 -> sum: 20257
+2hzldqdntffxhfpxlghf6threeninejrxngnjq
+ -> ['2', '6', '3', '9'] -> 29 -> sum: 20286
+dfppvqcvthreessnnm65tqtn
+ -> ['3', '6', '5'] -> 35 -> sum: 20321
+56nine75rdkxdcmj
+ -> ['5', '6', '9', '7', '5'] -> 55 -> sum: 20376
+8twozvjkdltz4sevensixfive6
+ -> ['8', '2', '4', '7', '6', '5', '6'] -> 86 -> sum: 20462
+vzpzllmbghcccksevenjgjghqjr98
+ -> ['7', '9', '8'] -> 78 -> sum: 20540
+fgjsgxlh48sixg3three8
+ -> ['4', '8', '6', '3', '3', '8'] -> 48 -> sum: 20588
+4eightfbppqltgxttoneoneseven3
+ -> ['4', '8', '1', '1', '7', '3'] -> 43 -> sum: 20631
+six1eightddcthzd
+ -> ['6', '1', '8'] -> 68 -> sum: 20699
+fiveggljcppdeightnine5hsbfrtninenine
+ -> ['5', '8', '9', '5', '9', '9'] -> 59 -> sum: 20758
+2xrdtzfnhpvpgone
+ -> ['2', '1'] -> 21 -> sum: 20779
+982
+ -> ['9', '8', '2'] -> 92 -> sum: 20871
+two7nine7eightnine4
+ -> ['2', '7', '9', '7', '8', '9', '4'] -> 24 -> sum: 20895
+one431
+ -> ['1', '4', '3', '1'] -> 11 -> sum: 20906
+eight9fmbfqxgzlskgjrrksr8six
+ -> ['8', '9', '8', '6'] -> 86 -> sum: 20992
+9zhvdllsszd
+ -> ['9'] -> 99 -> sum: 21091
+4pnkpxrgltkdbztlnz2
+ -> ['4', '2'] -> 42 -> sum: 21133
+4ninebkh6ninefiveh
+ -> ['4', '9', '6', '9', '5'] -> 45 -> sum: 21178
+five9ninevrzxhfnggfourfoursevensixlncsfdvrz
+ -> ['5', '9', '9', '4', '4', '7', '6'] -> 56 -> sum: 21234
+rqhjjxzeightnineseven7fnmbkrtqgr
+ -> ['8', '9', '7', '7'] -> 87 -> sum: 21321
+8xfmqdone
+ -> ['8', '1'] -> 81 -> sum: 21402
+pnszhd1trqb71gfhpjpq
+ -> ['1', '7', '1'] -> 11 -> sum: 21413
+9htfkgbxlht
+ -> ['9'] -> 99 -> sum: 21512
+sevenoneqgx29three5six
+ -> ['7', '1', '2', '9', '3', '5', '6'] -> 76 -> sum: 21588
+fourdlscbpbpb9four5jbdjzqqdthreerhqdsbb
+ -> ['4', '9', '4', '5', '3'] -> 43 -> sum: 21631
+five31sevennbmrbhtthreebzqxvthree
+ -> ['5', '3', '1', '7', '3', '3'] -> 53 -> sum: 21684
+one4c
+ -> ['1', '4'] -> 14 -> sum: 21698
+three38183threesix
+ -> ['3', '3', '8', '1', '8', '3', '3', '6'] -> 36 -> sum: 21734
+6rtdclcbfbbdbeight1
+ -> ['6', '8', '1'] -> 61 -> sum: 21795
+2one8xdeight
+ -> ['2', '1', '8', '8'] -> 28 -> sum: 21823
+2sixsixtwo
+ -> ['2', '6', '6', '2'] -> 22 -> sum: 21845
+nine3pcjthmlmtljkrzxcdxkbmgzneightzcmtwohpdpkvqg
+ -> ['9', '3', '8', '2'] -> 92 -> sum: 21937
+9two81qlhsrnfpdksdkd
+ -> ['9', '2', '8', '1'] -> 91 -> sum: 22028
+threejrgxc4seven26njlmtbheightwodjh
+ -> ['3', '4', '7', '2', '6', '8', '2'] -> 32 -> sum: 22060
+lrjzhghhpk342threeninejskdnjjltt6
+ -> ['3', '4', '2', '3', '9', '6'] -> 36 -> sum: 22096
+46threegj
+ -> ['4', '6', '3'] -> 43 -> sum: 22139
+ninedgpkqblftq2b3four
+ -> ['9', '2', '3', '4'] -> 94 -> sum: 22233
+3951sixssgmjj3
+ -> ['3', '9', '5', '1', '6', '3'] -> 33 -> sum: 22266
+8jteight4
+ -> ['8', '8', '4'] -> 84 -> sum: 22350
+three6mdvfkgrxcjmfoureightfour3
+ -> ['3', '6', '4', '8', '4', '3'] -> 33 -> sum: 22383
+hvbf28
+ -> ['2', '8'] -> 28 -> sum: 22411
+9fournine713six3
+ -> ['9', '4', '9', '7', '1', '3', '6', '3'] -> 93 -> sum: 22504
+four1seven
+ -> ['4', '1', '7'] -> 47 -> sum: 22551
+763twoseventwonine4
+ -> ['7', '6', '3', '2', '7', '2', '9', '4'] -> 74 -> sum: 22625
+ctpfmnsvcthree9sevencbqtjc3
+ -> ['3', '9', '7', '3'] -> 33 -> sum: 22658
+sevensqdhvxd36
+ -> ['7', '3', '6'] -> 76 -> sum: 22734
+fourninergfmdxpdbt1ninefour
+ -> ['4', '9', '1', '9', '4'] -> 44 -> sum: 22778
+2kptonesixzpqrsqzhv
+ -> ['2', '1', '6'] -> 26 -> sum: 22804
+h4qcscfxfctjbqnff1sevengxvjjc3
+ -> ['4', '1', '7', '3'] -> 43 -> sum: 22847
+d8cnjksdf
+ -> ['8'] -> 88 -> sum: 22935
+hzcgnine35fcbxtlg8rjhzbjfkv
+ -> ['9', '3', '5', '8'] -> 98 -> sum: 23033
+jdvoneightdpfvzvp758fourfour
+ -> ['1', '8', '7', '5', '8', '4', '4'] -> 14 -> sum: 23047
+four27jhrgqnrjnkzffour5
+ -> ['4', '2', '7', '4', '5'] -> 45 -> sum: 23092
+fivetwoszrxz2fzfrbgqntjf
+ -> ['5', '2', '2'] -> 52 -> sum: 23144
+onergnqpl3
+ -> ['1', '3'] -> 13 -> sum: 23157
+ccfqnc5twothreefoureight
+ -> ['5', '2', '3', '4', '8'] -> 58 -> sum: 23215
+grgsgxsevenkvzfjppnzq2sztcfive
+ -> ['7', '2', '5'] -> 75 -> sum: 23290
+9two94onesix
+ -> ['9', '2', '9', '4', '1', '6'] -> 96 -> sum: 23386
+nine7seven7
+ -> ['9', '7', '7', '7'] -> 97 -> sum: 23483
+eight36
+ -> ['8', '3', '6'] -> 86 -> sum: 23569
+plgsevenvfljnqvtfq5two
+ -> ['7', '5', '2'] -> 72 -> sum: 23641
+threethxdbnz49two2vdxbpqtpb
+ -> ['3', '4', '9', '2', '2'] -> 32 -> sum: 23673
+cf9fkrbrvjhssptthree
+ -> ['9', '3'] -> 93 -> sum: 23766
+one5lrcn3klrcphllmz9
+ -> ['1', '5', '3', '9'] -> 19 -> sum: 23785
+onesix6seven8tzgfdbm
+ -> ['1', '6', '6', '7', '8'] -> 18 -> sum: 23803
+964khvfxtrljs88
+ -> ['9', '6', '4', '8', '8'] -> 98 -> sum: 23901
+trszhb48fmseven
+ -> ['4', '8', '7'] -> 47 -> sum: 23948
+tdfxvnhrzv8threesevenkgp
+ -> ['8', '3', '7'] -> 87 -> sum: 24035
+ninegnmjxzbtcb32four9mlpkbfqdxdkoneightg
+ -> ['9', '3', '2', '4', '9', '1', '8'] -> 98 -> sum: 24133
+sixnineeightnhlqfslb2v
+ -> ['6', '9', '8', '2'] -> 62 -> sum: 24195
+one83fc7zs
+ -> ['1', '8', '3', '7'] -> 17 -> sum: 24212
+pxfkljdbdqqqvnrfivefoursg5nine
+ -> ['5', '4', '5', '9'] -> 59 -> sum: 24271
+2onevh
+ -> ['2', '1'] -> 21 -> sum: 24292
+1fgjrsdlgnbmsbzsevenfive
+ -> ['1', '7', '5'] -> 15 -> sum: 24307
+3nine87pmsqqntwojtnrksdtwo
+ -> ['3', '9', '8', '7', '2', '2'] -> 32 -> sum: 24339
+two59kltcxhzszhdtwo
+ -> ['2', '5', '9', '2'] -> 22 -> sum: 24361
+6451
+ -> ['6', '4', '5', '1'] -> 61 -> sum: 24422
+sevenzscjhgpfgsseven7threeseven4threedlbtxtcvl
+ -> ['7', '7', '7', '3', '7', '4', '3'] -> 73 -> sum: 24495
+eighteight8sfsvhbkf9jgfrddx
+ -> ['8', '8', '8', '9'] -> 89 -> sum: 24584
+qlvdplcqtrcj2eight4
+ -> ['2', '8', '4'] -> 24 -> sum: 24608
+sixbcpxtjt4onetwothree69
+ -> ['6', '4', '1', '2', '3', '6', '9'] -> 69 -> sum: 24677
+91fourrbblcl
+ -> ['9', '1', '4'] -> 94 -> sum: 24771
+twozvqbsx4
+ -> ['2', '4'] -> 24 -> sum: 24795
+twogfh73
+ -> ['2', '7', '3'] -> 23 -> sum: 24818
+onesixljjrlonethree3rxtwofive
+ -> ['1', '6', '1', '3', '3', '2', '5'] -> 15 -> sum: 24833
+onefour62
+ -> ['1', '4', '6', '2'] -> 12 -> sum: 24845
+b7vfplpqnine5
+ -> ['7', '9', '5'] -> 75 -> sum: 24920
+67dgbmmjsevenfivedktq
+ -> ['6', '7', '7', '5'] -> 65 -> sum: 24985
+7foureighttwo4
+ -> ['7', '4', '8', '2', '4'] -> 74 -> sum: 25059
+sevenctctvfg51tsbzqgcvpvslqb
+ -> ['7', '5', '1'] -> 71 -> sum: 25130
+mjkeightwo7eightsb6one5xzsix8
+ -> ['8', '2', '7', '8', '6', '1', '5', '6', '8'] -> 88 -> sum: 25218
+151dht66
+ -> ['1', '5', '1', '6', '6'] -> 16 -> sum: 25234
+93tkbs
+ -> ['9', '3'] -> 93 -> sum: 25327
+29two
+ -> ['2', '9', '2'] -> 22 -> sum: 25349
+foursixtwo5gprqslprxkrbfbmsl1six5
+ -> ['4', '6', '2', '5', '1', '6', '5'] -> 45 -> sum: 25394
+one3six3
+ -> ['1', '3', '6', '3'] -> 13 -> sum: 25407
+three66rbh82bgtfzsfrkhrv
+ -> ['3', '6', '6', '8', '2'] -> 32 -> sum: 25439
+2sixfivethreefiveseven
+ -> ['2', '6', '5', '3', '5', '7'] -> 27 -> sum: 25466
+fcjttg4onesixtwofive
+ -> ['4', '1', '6', '2', '5'] -> 45 -> sum: 25511
+15seven54
+ -> ['1', '5', '7', '5', '4'] -> 14 -> sum: 25525
+5kjdkr9htl
+ -> ['5', '9'] -> 59 -> sum: 25584
+gclrsklbvkfbdcb9seventvdtdmmmksh52xkxtpmfpvk
+ -> ['9', '7', '5', '2'] -> 92 -> sum: 25676
+spone7eight5xzjrlxrnzjtqgpdcgrsjn
+ -> ['1', '7', '8', '5'] -> 15 -> sum: 25691
+vs3fourdkdlhx7rb
+ -> ['3', '4', '7'] -> 37 -> sum: 25728
+9ldxtdk3
+ -> ['9', '3'] -> 93 -> sum: 25821
+4dppnthreetwodvkhjjrqh1zbqxntvtxgchv1
+ -> ['4', '3', '2', '1', '1'] -> 41 -> sum: 25862
+1sevenmsdrjgqfivevphqmxzghktwo6fdvkvqhj
+ -> ['1', '7', '5', '2', '6'] -> 16 -> sum: 25878
+tbptrcvxhs9qcdxcpvp
+ -> ['9'] -> 99 -> sum: 25977
+8five2ssrrhgtxfone
+ -> ['8', '5', '2', '1'] -> 81 -> sum: 26058
+3clvbm2g961
+ -> ['3', '2', '9', '6', '1'] -> 31 -> sum: 26089
+four2onegkhbdfive5vxvxvtxglg6hxrtlhzjh
+ -> ['4', '2', '1', '5', '5', '6'] -> 46 -> sum: 26135
+kfhcmflznrg9qnkkxqcsm2vqqtrdg8tjkshzpnddvd
+ -> ['9', '2', '8'] -> 98 -> sum: 26233
+eighttwojfktjcrqthreepssfour39
+ -> ['8', '2', '3', '4', '3', '9'] -> 89 -> sum: 26322
+359nine2fivevvscbvggjhbnnzqtxfsbpb
+ -> ['3', '5', '9', '9', '2', '5'] -> 35 -> sum: 26357
+vvshjlcfqt6qjvfjsix2tgsjbdxgppq1jmr
+ -> ['6', '6', '2', '1'] -> 61 -> sum: 26418
+ninehhmeightcvqskvjptz2kdnhpptvkz54
+ -> ['9', '8', '2', '5', '4'] -> 94 -> sum: 26512
+39threefourndztxcl
+ -> ['3', '9', '3', '4'] -> 34 -> sum: 26546
+sevenfive7
+ -> ['7', '5', '7'] -> 77 -> sum: 26623
+csmmpzfsix41
+ -> ['6', '4', '1'] -> 61 -> sum: 26684
+9cgqxtpdxt2
+ -> ['9', '2'] -> 92 -> sum: 26776
+3mpzvlxrzvhtj
+ -> ['3'] -> 33 -> sum: 26809
+fourkqhzsjjjvx3six1
+ -> ['4', '3', '6', '1'] -> 41 -> sum: 26850
+52one
+ -> ['5', '2', '1'] -> 51 -> sum: 26901
+nineltplrl8tfzqmnqeight
+ -> ['9', '8', '8'] -> 98 -> sum: 26999
+sixfourdqrfvrvbvfzzgb6
+ -> ['6', '4', '6'] -> 66 -> sum: 27065
+mqnxglzjk6qqhzksklvsmthreesixmvhmhbdkqpnxcsgvcsl
+ -> ['6', '3', '6'] -> 66 -> sum: 27131
+65
+ -> ['6', '5'] -> 65 -> sum: 27196
+zqconeone85three
+ -> ['1', '1', '8', '5', '3'] -> 13 -> sum: 27209
+rxnhdflsqdqglxdmfxlxponeseven4one
+ -> ['1', '7', '4', '1'] -> 11 -> sum: 27220
+88nkgcglftwodfxfhzxbqdpfrqmtwonenf
+ -> ['8', '8', '2', '2', '1'] -> 81 -> sum: 27301
+jzoneight9htkkpszpcqvkmlvl
+ -> ['1', '8', '9'] -> 19 -> sum: 27320
+388xnq
+ -> ['3', '8', '8'] -> 38 -> sum: 27358
+9xhlrqnkjpthreedfknpmqqtwo
+ -> ['9', '3', '2'] -> 92 -> sum: 27450
+4onemfzjfvmhhfive3two5pjdcf
+ -> ['4', '1', '5', '3', '2', '5'] -> 45 -> sum: 27495
+djqjglztxs5nineeight8jdzone
+ -> ['5', '9', '8', '8', '1'] -> 51 -> sum: 27546
+four35ninefourfivethreecnhntp8
+ -> ['4', '3', '5', '9', '4', '5', '3', '8'] -> 48 -> sum: 27594
+gxqxl6fourlfdtndgdql
+ -> ['6', '4'] -> 64 -> sum: 27658
+fivenine6
+ -> ['5', '9', '6'] -> 56 -> sum: 27714
+1pqctbpbbgrmgqfqbzbjjt6
+ -> ['1', '6'] -> 16 -> sum: 27730
+xzvjjfnfr28jblqseight
+ -> ['2', '8', '8'] -> 28 -> sum: 27758
+ctwone23
+ -> ['2', '1', '2', '3'] -> 23 -> sum: 27781
+6sevenqjtwo
+ -> ['6', '7', '2'] -> 62 -> sum: 27843
+8nineplhlmsgjvs1
+ -> ['8', '9', '1'] -> 81 -> sum: 27924
+lmjgmltfivenine9
+ -> ['5', '9', '9'] -> 59 -> sum: 27983
+8gxnnnjonesixtwotwo1
+ -> ['8', '1', '6', '2', '2', '1'] -> 81 -> sum: 28064
+2seven678cdxhkflhj3eightthree
+ -> ['2', '7', '6', '7', '8', '3', '8', '3'] -> 23 -> sum: 28087
+djzninefour3one
+ -> ['9', '4', '3', '1'] -> 91 -> sum: 28178
+vbqhjjhpzg86rkzdjzfj
+ -> ['8', '6'] -> 86 -> sum: 28264
+eight1twotthreeqqlr
+ -> ['8', '1', '2', '3'] -> 83 -> sum: 28347
+bkxseventhreezcjvdkxzksxrznp6four8
+ -> ['7', '3', '6', '4', '8'] -> 78 -> sum: 28425
+five77xcvphzcnlfbgbxnqbhfrldg
+ -> ['5', '7', '7'] -> 57 -> sum: 28482
+71qxqdncxdjsix
+ -> ['7', '1', '6'] -> 76 -> sum: 28558
+eight6one6jnpspgmhngzrfneightzdnrdhj
+ -> ['8', '6', '1', '6', '8'] -> 88 -> sum: 28646
+xb9skhpnfjsmq
+ -> ['9'] -> 99 -> sum: 28745
+jxgtk618fiveone1zr
+ -> ['6', '1', '8', '5', '1', '1'] -> 61 -> sum: 28806
+8dkdnbfr
+ -> ['8'] -> 88 -> sum: 28894
+3llplnp4dzdxfhbvbn7two
+ -> ['3', '4', '7', '2'] -> 32 -> sum: 28926
+eighttcgrbhrspktwo6eightddxhqqbprrf
+ -> ['8', '2', '6', '8'] -> 88 -> sum: 29014
+eight2mpmzsevenrcbmsqg2cxjvmblnqbqdjsl
+ -> ['8', '2', '7', '2'] -> 82 -> sum: 29096
+seventwo54
+ -> ['7', '2', '5', '4'] -> 74 -> sum: 29170
+koneightsix22three
+ -> ['1', '8', '6', '2', '2', '3'] -> 13 -> sum: 29183
+zdsnjr5vxrhkthkr8qmddrzclmrkprmvbll
+ -> ['5', '8'] -> 58 -> sum: 29241
+fbkmfxncztwohjbfgkhgvcdkrpnc5
+ -> ['2', '5'] -> 25 -> sum: 29266
+ksprkgxkjnineseven3fivebjpqhrmbdtwo
+ -> ['9', '7', '3', '5', '2'] -> 92 -> sum: 29358
+fourpss5
+ -> ['4', '5'] -> 45 -> sum: 29403
+1three9fbnnrjcgllkvcs6
+ -> ['1', '3', '9', '6'] -> 16 -> sum: 29419
+oneone9kjchnfsv9ffcdspfive54
+ -> ['1', '1', '9', '9', '5', '5', '4'] -> 14 -> sum: 29433
+26ninejctplmsgb
+ -> ['2', '6', '9'] -> 29 -> sum: 29462
+9ftfjrmvjblzqqmrdczpone3bphtmmkm
+ -> ['9', '1', '3'] -> 93 -> sum: 29555
+7lpssdtbc67mhnthree9cndbsthree
+ -> ['7', '6', '7', '3', '9', '3'] -> 73 -> sum: 29628
+fourfour49four
+ -> ['4', '4', '4', '9', '4'] -> 44 -> sum: 29672
+nineeight8bzeight
+ -> ['9', '8', '8', '8'] -> 98 -> sum: 29770
+128zpqftnxnqz2threettrhscsll
+ -> ['1', '2', '8', '2', '3'] -> 13 -> sum: 29783
+1xdtxcg4tkxtsnl
+ -> ['1', '4'] -> 14 -> sum: 29797
+hmxbjczvgmcrd9mqsfivefourninethree
+ -> ['9', '5', '4', '9', '3'] -> 93 -> sum: 29890
+5hseveneighttwomgxmlmskr8
+ -> ['5', '7', '8', '2', '8'] -> 58 -> sum: 29948
+zdtbtszzkbk5
+ -> ['5'] -> 55 -> sum: 30003
+eight5nine6xthreefour
+ -> ['8', '5', '9', '6', '3', '4'] -> 84 -> sum: 30087
+9rbfcnjztthree4v9vn
+ -> ['9', '3', '4', '9'] -> 99 -> sum: 30186
+voneightqdtnrtc4
+ -> ['1', '8', '4'] -> 14 -> sum: 30200
+86cnzxs2three5
+ -> ['8', '6', '2', '3', '5'] -> 85 -> sum: 30285
+eight9seventhree
+ -> ['8', '9', '7', '3'] -> 83 -> sum: 30368
+tjmrjgcfldqtbrvnzzxshxkrs3onefour
+ -> ['3', '1', '4'] -> 34 -> sum: 30402
+2rxplslzcglskjxgthk76cczdbxrp
+ -> ['2', '7', '6'] -> 26 -> sum: 30428
+sevenpdvsbhkknxqkqxfcz6bhmkxmhdbvhcvvhpmv49
+ -> ['7', '6', '4', '9'] -> 79 -> sum: 30507
+three1twotwopr2lctfjb
+ -> ['3', '1', '2', '2', '2'] -> 32 -> sum: 30539
+zrbrqmh87dmxzmtfvthreelsleight
+ -> ['8', '7', '3', '8'] -> 88 -> sum: 30627
+34dcnd8eightwombx
+ -> ['3', '4', '8', '8', '2'] -> 32 -> sum: 30659
+two9xnqtcfgq8tsqzvd3three
+ -> ['2', '9', '8', '3', '3'] -> 23 -> sum: 30682
+nine5fq3
+ -> ['9', '5', '3'] -> 93 -> sum: 30775
+eightsixfivemtcgzlbkheight4
+ -> ['8', '6', '5', '8', '4'] -> 84 -> sum: 30859
+qlspgfndmx5twobtjgzgvzmcone
+ -> ['5', '2', '1'] -> 51 -> sum: 30910
+5zlldrzrffgggtwo648
+ -> ['5', '2', '6', '4', '8'] -> 58 -> sum: 30968
+seventbqtkpfivel6
+ -> ['7', '5', '6'] -> 76 -> sum: 31044
+hjqbmfnnqzmf4
+ -> ['4'] -> 44 -> sum: 31088
+fiveqhdfsnjvqtwo6two
+ -> ['5', '2', '6', '2'] -> 52 -> sum: 31140
+jftwone7
+ -> ['2', '1', '7'] -> 27 -> sum: 31167
+4twolqvglgxcc
+ -> ['4', '2'] -> 42 -> sum: 31209
+twoqjmgjtrrjjt1eightcpj
+ -> ['2', '1', '8'] -> 28 -> sum: 31237
+eight9sevenmlkpsbzmtnhdrkbmj
+ -> ['8', '9', '7'] -> 87 -> sum: 31324
+trrpdninesix8oneqxtrzf
+ -> ['9', '6', '8', '1'] -> 91 -> sum: 31415
+5sixtsxqdbnczhbvmfkvkc
+ -> ['5', '6'] -> 56 -> sum: 31471
+tvbf2
+ -> ['2'] -> 22 -> sum: 31493
+sixtwonjssgpljqrxhlstfx4xbhqzlqktsixfour
+ -> ['6', '2', '4', '6', '4'] -> 64 -> sum: 31557
+kfxccb45tzsftztxjhgnxqsxknl29
+ -> ['4', '5', '2', '9'] -> 49 -> sum: 31606
+tworjdcgsgvsix6
+ -> ['2', '6', '6'] -> 26 -> sum: 31632
+eightjbqfive26gfspjh3nine
+ -> ['8', '5', '2', '6', '3', '9'] -> 89 -> sum: 31721
+2sqhleight7cfkhzrsevensevenfive
+ -> ['2', '8', '7', '7', '7', '5'] -> 25 -> sum: 31746
+kzpzjcrl98sfive
+ -> ['9', '8', '5'] -> 95 -> sum: 31841
+sevenrsgtnine4pbgvrbcpf8
+ -> ['7', '9', '4', '8'] -> 78 -> sum: 31919
+25q3qkcxlvhrxdonednbtcrrvjlnngq
+ -> ['2', '5', '3', '1'] -> 21 -> sum: 31940
+twothree4lffpxvfcgqrkvdgzdsdjxjsh
+ -> ['2', '3', '4'] -> 24 -> sum: 31964
+seventhree34seventwofive9ckm
+ -> ['7', '3', '3', '4', '7', '2', '5', '9'] -> 79 -> sum: 32043
+three25skfkvqdmbmsixxgqx
+ -> ['3', '2', '5', '6'] -> 36 -> sum: 32079
+three1eightthreesix4
+ -> ['3', '1', '8', '3', '6', '4'] -> 34 -> sum: 32113
+threeftjlv9
+ -> ['3', '9'] -> 39 -> sum: 32152
+6spbhfckxcdrxlcg6hxcfive6five
+ -> ['6', '6', '5', '6', '5'] -> 65 -> sum: 32217
+8drbfjrgzvs834slzhsbgrjm2seventwo
+ -> ['8', '8', '3', '4', '2', '7', '2'] -> 82 -> sum: 32299
+sixsevenfmrvpqbgx4ncrmvfkjx62
+ -> ['6', '7', '4', '6', '2'] -> 62 -> sum: 32361
+lqfsslkmstwo7rgnqeightthreetnlnonehszkrghlnt
+ -> ['2', '7', '8', '3', '1'] -> 21 -> sum: 32382
+5onethreebxxfstvd
+ -> ['5', '1', '3'] -> 53 -> sum: 32435
+djchrbjcrddcqfourmnninesevenrdlpfxthr2one
+ -> ['4', '9', '7', '2', '1'] -> 41 -> sum: 32476
+three3threeoneninepcrjr1
+ -> ['3', '3', '3', '1', '9', '1'] -> 31 -> sum: 32507
+twothreernxmhmtbn2fourtccrqhqs
+ -> ['2', '3', '2', '4'] -> 24 -> sum: 32531
+lzzdpfourtwo1six
+ -> ['4', '2', '1', '6'] -> 46 -> sum: 32577
+two3one3
+ -> ['2', '3', '1', '3'] -> 23 -> sum: 32600
+zzcnprtjdr22286
+ -> ['2', '2', '2', '8', '6'] -> 26 -> sum: 32626
+seven5qjlfrhj7seven8
+ -> ['7', '5', '7', '7', '8'] -> 78 -> sum: 32704
+seven99
+ -> ['7', '9', '9'] -> 79 -> sum: 32783
+mtztq6one37oneeight
+ -> ['6', '1', '3', '7', '1', '8'] -> 68 -> sum: 32851
+mrfcssmzxpvcz2sevenfourfivelpzqkvvdxmmpmxqshskfnh
+ -> ['2', '7', '4', '5'] -> 25 -> sum: 32876
+nine8rtx71
+ -> ['9', '8', '7', '1'] -> 91 -> sum: 32967
+1llzpvcdgmvoneonepksninefourthree
+ -> ['1', '1', '1', '9', '4', '3'] -> 13 -> sum: 32980
+gbbvkcfive18two8twonineseven
+ -> ['5', '1', '8', '2', '8', '2', '9', '7'] -> 57 -> sum: 33037
+2fivenztsix2nine
+ -> ['2', '5', '6', '2', '9'] -> 29 -> sum: 33066
+gjqnnr422seven4ppbsqdbpcfour
+ -> ['4', '2', '2', '7', '4', '4'] -> 44 -> sum: 33110
+fourtwo5one7qfgpmmphdtl
+ -> ['4', '2', '5', '1', '7'] -> 47 -> sum: 33157
+pglzjrr4fivebclpf
+ -> ['4', '5'] -> 45 -> sum: 33202
+slrrcqxxhtwoeightseven6
+ -> ['2', '8', '7', '6'] -> 26 -> sum: 33228
+dnknxxkbjplrkjone2threesix9
+ -> ['1', '2', '3', '6', '9'] -> 19 -> sum: 33247
+htctqnkcmfqdxrzd9eight9seveneight
+ -> ['9', '8', '9', '7', '8'] -> 98 -> sum: 33345
+8sevenfiveninermlrrzpcdxkjkczhgpx6eightone
+ -> ['8', '7', '5', '9', '6', '8', '1'] -> 81 -> sum: 33426
+eighthnfxhrtssbmfxv6v
+ -> ['8', '6'] -> 86 -> sum: 33512
+6fp539
+ -> ['6', '5', '3', '9'] -> 69 -> sum: 33581
+sixzmsfqjzpvxjkhfqcrbss7xgg15
+ -> ['6', '7', '1', '5'] -> 65 -> sum: 33646
+nine5ninevddknzczpxgzjx
+ -> ['9', '5', '9'] -> 99 -> sum: 33745
+jbcsf3
+ -> ['3'] -> 33 -> sum: 33778
+jjbstlskzxc5nine
+ -> ['5', '9'] -> 59 -> sum: 33837
+jlrvgcbch7tnpfjnczdsrgddrseven156fvdmfhtl
+ -> ['7', '7', '1', '5', '6'] -> 76 -> sum: 33913
+one89
+ -> ['1', '8', '9'] -> 19 -> sum: 33932
+three52sevenlxxskf7gxh3gb
+ -> ['3', '5', '2', '7', '7', '3'] -> 33 -> sum: 33965
+eighttwo59mqzdlqjdkkxgjhnktwoone
+ -> ['8', '2', '5', '9', '2', '1'] -> 81 -> sum: 34046
+519six
+ -> ['5', '1', '9', '6'] -> 56 -> sum: 34102
+1onemneightsixdlqx7
+ -> ['1', '1', '8', '6', '7'] -> 17 -> sum: 34119
+7fgszpqcj
+ -> ['7'] -> 77 -> sum: 34196
+sbfjtrfvnv6four
+ -> ['6', '4'] -> 64 -> sum: 34260
+qtwonedvkninercj8
+ -> ['2', '1', '9', '8'] -> 28 -> sum: 34288
+ntrnzldltrvtcsh8eight77sprgsvfdljthreecndckrzmjl
+ -> ['8', '8', '7', '7', '3'] -> 83 -> sum: 34371
+gtspn2
+ -> ['2'] -> 22 -> sum: 34393
+54six6mkjznlb
+ -> ['5', '4', '6', '6'] -> 56 -> sum: 34449
+sevenonethree3sbpjqgltv
+ -> ['7', '1', '3', '3'] -> 73 -> sum: 34522
+four8two
+ -> ['4', '8', '2'] -> 42 -> sum: 34564
+xdzrskv3974mgvjlhzbkddhcxzzxv
+ -> ['3', '9', '7', '4'] -> 34 -> sum: 34598
+6three1mtlxshtxfpnine
+ -> ['6', '3', '1', '9'] -> 69 -> sum: 34667
+14threeseven6
+ -> ['1', '4', '3', '7', '6'] -> 16 -> sum: 34683
+37threeonefpfgmz9
+ -> ['3', '7', '3', '1', '9'] -> 39 -> sum: 34722
+three3sevensixeightfive1nkjtndgrd
+ -> ['3', '3', '7', '6', '8', '5', '1'] -> 31 -> sum: 34753
+2dsmr7qhmnrgbsrvjmsbctwovb
+ -> ['2', '7', '2'] -> 22 -> sum: 34775
+gkdsnnqzlzdvcgthree3fivedzvpcfive6one
+ -> ['3', '3', '5', '5', '6', '1'] -> 31 -> sum: 34806
+3vkftsclsxtxmsjeight
+ -> ['3', '8'] -> 38 -> sum: 34844
+sglkcnzgz4mnhgblxqgdv69
+ -> ['4', '6', '9'] -> 49 -> sum: 34893
+tpcjb4one73s4
+ -> ['4', '1', '7', '3', '4'] -> 44 -> sum: 34937
+sevenrvhhxjcfqgs32six1pjvltwo
+ -> ['7', '3', '2', '6', '1', '2'] -> 72 -> sum: 35009
+8zmktmxkbc5mpgrtnxmnp35fttpmdbhfm
+ -> ['8', '5', '3', '5'] -> 85 -> sum: 35094
+1sevengeight
+ -> ['1', '7', '8'] -> 18 -> sum: 35112
+hghs1sixvvjpmlcponethree8kckgkf
+ -> ['1', '6', '1', '3', '8'] -> 18 -> sum: 35130
+gkbpflqvh1cbddlvdkzhfmzcfourkmckngsevenxkjknplzv
+ -> ['1', '4', '7'] -> 17 -> sum: 35147
+5sevenfk5qgfshtqseven155
+ -> ['5', '7', '5', '7', '1', '5', '5'] -> 55 -> sum: 35202
+dfjdtxjxb8fivefivebjtbggkdlpxlmnrcdt4jrrpnbtvlthrhmczn
+ -> ['8', '5', '5', '4'] -> 84 -> sum: 35286
+2fivefivejxhh6
+ -> ['2', '5', '5', '6'] -> 26 -> sum: 35312
+41threehtwo4nhzdn2
+ -> ['4', '1', '3', '2', '4', '2'] -> 42 -> sum: 35354
+2fzngnxvvpjrqxk6
+ -> ['2', '6'] -> 26 -> sum: 35380
+53sdthreeninexrfone
+ -> ['5', '3', '3', '9', '1'] -> 51 -> sum: 35431
+6qmrthlzgqeightrzrdglxvscgr
+ -> ['6', '8'] -> 68 -> sum: 35499
+snkmhszcbmthree5threejsvkpkknpeighthbv
+ -> ['3', '5', '3', '8'] -> 38 -> sum: 35537
+cmgb9seveneight
+ -> ['9', '7', '8'] -> 98 -> sum: 35635
+5djnine3bcffxgjbrhxbfhgthxb
+ -> ['5', '9', '3'] -> 53 -> sum: 35688
+1flqjgsf2ms
+ -> ['1', '2'] -> 12 -> sum: 35700
+fivefive7onefour
+ -> ['5', '5', '7', '1', '4'] -> 54 -> sum: 35754
+threeeightksmhj94jvfvqrsgqrsevenj
+ -> ['3', '8', '9', '4', '7'] -> 37 -> sum: 35791
+jttgbfmh9468ddshrxnjthsix3
+ -> ['9', '4', '6', '8', '6', '3'] -> 93 -> sum: 35884
+25four
+ -> ['2', '5', '4'] -> 24 -> sum: 35908
+9sixseventhreefiveninefive
+ -> ['9', '6', '7', '3', '5', '9', '5'] -> 95 -> sum: 36003
+eight5twoqrfgpkbdfc3qxfmchrjx8kpp
+ -> ['8', '5', '2', '3', '8'] -> 88 -> sum: 36091
+nineftnvllx1rjzkkt
+ -> ['9', '1'] -> 91 -> sum: 36182
+gmeightwothree1fgfivejldgmt
+ -> ['8', '2', '3', '1', '5'] -> 85 -> sum: 36267
+nine966fivethreeninecpmgsxsxz
+ -> ['9', '9', '6', '6', '5', '3', '9'] -> 99 -> sum: 36366
+77bfhphxczdg2eight
+ -> ['7', '7', '2', '8'] -> 78 -> sum: 36444
+89hcgjjtchsix
+ -> ['8', '9', '6'] -> 86 -> sum: 36530
+1onexps1
+ -> ['1', '1', '1'] -> 11 -> sum: 36541
+3fourkgm
+ -> ['3', '4'] -> 34 -> sum: 36575
+hjgnbninevxdtpnct7bmstnczzteight23
+ -> ['9', '7', '8', '2', '3'] -> 93 -> sum: 36668
+twoone1qt8
+ -> ['2', '1', '1', '8'] -> 28 -> sum: 36696
+43744
+ -> ['4', '3', '7', '4', '4'] -> 44 -> sum: 36740
+fourtfgn2
+ -> ['4', '2'] -> 42 -> sum: 36782
+sixppztkbvllkltbs51xknnfive
+ -> ['6', '5', '1', '5'] -> 65 -> sum: 36847
+tqxoneight5
+ -> ['1', '8', '5'] -> 15 -> sum: 36862
+twong3zdrbpqnb
+ -> ['2', '3'] -> 23 -> sum: 36885
+fivebcrxk198three
+ -> ['5', '1', '9', '8', '3'] -> 53 -> sum: 36938
+435sfddjvfg56vkddkzhhj3
+ -> ['4', '3', '5', '5', '6', '3'] -> 43 -> sum: 36981
+qcnhlbzmbld2fivebsix
+ -> ['2', '5', '6'] -> 26 -> sum: 37007
+zfsrtwothree8
+ -> ['2', '3', '8'] -> 28 -> sum: 37035
+nineeightfivetwomcjm2seven1
+ -> ['9', '8', '5', '2', '2', '7', '1'] -> 91 -> sum: 37126
+3gbnxlzxhvzzgfjjhf44fgbccpthhnkpht
+ -> ['3', '4', '4'] -> 34 -> sum: 37160
+3ccmrkbfour68ninetwonebz
+ -> ['3', '4', '6', '8', '9', '2', '1'] -> 31 -> sum: 37191
+sevenrccgdjrqj9one
+ -> ['7', '9', '1'] -> 71 -> sum: 37262
+fourzgdfbsnlb66txclxgp7
+ -> ['4', '6', '6', '7'] -> 47 -> sum: 37309
+jmzlbtgbtl8three
+ -> ['8', '3'] -> 83 -> sum: 37392
+6nine32pr
+ -> ['6', '9', '3', '2'] -> 62 -> sum: 37454
+sixffcsmhlfiveklbmgj8nine
+ -> ['6', '5', '8', '9'] -> 69 -> sum: 37523
+psmjrt65tppjqeightzqvglglnine1seven
+ -> ['6', '5', '8', '9', '1', '7'] -> 67 -> sum: 37590
+fourninehhzh8seventwoone
+ -> ['4', '9', '8', '7', '2', '1'] -> 41 -> sum: 37631
+48two2vzbrl
+ -> ['4', '8', '2', '2'] -> 42 -> sum: 37673
+mdlzptrcsix3three9
+ -> ['6', '3', '3', '9'] -> 69 -> sum: 37742
+sevenlgr3t
+ -> ['7', '3'] -> 73 -> sum: 37815
+7sevenpphjhvdhkheightwojv
+ -> ['7', '7', '8', '2'] -> 72 -> sum: 37887
+seven3756
+ -> ['7', '3', '7', '5', '6'] -> 76 -> sum: 37963
+four85
+ -> ['4', '8', '5'] -> 45 -> sum: 38008
+4twoonettmxjncsqmgsrxsf
+ -> ['4', '2', '1'] -> 41 -> sum: 38049
+fivesix6twofvzqxpphzmlkj
+ -> ['5', '6', '6', '2'] -> 52 -> sum: 38101
+eight1twojrzspbfbzkftwo
+ -> ['8', '1', '2', '2'] -> 82 -> sum: 38183
+5eightthree5
+ -> ['5', '8', '3', '5'] -> 55 -> sum: 38238
+31ninecjnsevenjvbsvpphpxxkcnine9
+ -> ['3', '1', '9', '7', '9', '9'] -> 39 -> sum: 38277
+nine5vnine486vrhbkgl
+ -> ['9', '5', '9', '4', '8', '6'] -> 96 -> sum: 38373
+sevennineeight97qpdlfbskz7sfbtm
+ -> ['7', '9', '8', '9', '7', '7'] -> 77 -> sum: 38450
+onernqbxt8twoone
+ -> ['1', '8', '2', '1'] -> 11 -> sum: 38461
+gftjrbmkmngtshchbgfc1nvvt5
+ -> ['1', '5'] -> 15 -> sum: 38476
+four5dgvsixzhlxnnmjhkhkljcfdpeight3
+ -> ['4', '5', '6', '8', '3'] -> 43 -> sum: 38519
+ttmfdxhd3ninekzbtsixnfmvfour
+ -> ['3', '9', '6', '4'] -> 34 -> sum: 38553
+8pfkhxhmh8xkghgdk
+ -> ['8', '8'] -> 88 -> sum: 38641
+nhs4threemxjpbgsix1s
+ -> ['4', '3', '6', '1'] -> 41 -> sum: 38682
+ghtwoz1
+ -> ['2', '1'] -> 21 -> sum: 38703
+sixdthree7vlfbpzcm1ndbbczvc
+ -> ['6', '3', '7', '1'] -> 61 -> sum: 38764
+ninetwo183
+ -> ['9', '2', '1', '8', '3'] -> 93 -> sum: 38857
+twofxsdt36fcthreethreeseven
+ -> ['2', '3', '6', '3', '3', '7'] -> 27 -> sum: 38884
+7grvvzqhcbeightwopx
+ -> ['7', '8', '2'] -> 72 -> sum: 38956
+twoninevknhnkgdmhmlbxkeighttwonine4
+ -> ['2', '9', '8', '2', '9', '4'] -> 24 -> sum: 38980
+4fourdmclrghj2
+ -> ['4', '4', '2'] -> 42 -> sum: 39022
+sevenmtgvr8four76fivekdqbsmmtq
+ -> ['7', '8', '4', '7', '6', '5'] -> 75 -> sum: 39097
+klgpeight5sbknbhvsixfive6
+ -> ['8', '5', '6', '5', '6'] -> 86 -> sum: 39183
+2vddxlzfpsrqsbsixlgrfnhone
+ -> ['2', '6', '1'] -> 21 -> sum: 39204
+jxfhlzcp6qctpqhb1
+ -> ['6', '1'] -> 61 -> sum: 39265
+eightd1162jsfcsplrctwogcpzlhqf
+ -> ['8', '1', '1', '6', '2', '2'] -> 82 -> sum: 39347
+one4four7xx5
+ -> ['1', '4', '4', '7', '5'] -> 15 -> sum: 39362
+threebqmzstphclb5fiveninethree
+ -> ['3', '5', '5', '9', '3'] -> 33 -> sum: 39395
+bkxfxxms6eightwoxz
+ -> ['6', '8', '2'] -> 62 -> sum: 39457
+nineeight4four
+ -> ['9', '8', '4', '4'] -> 94 -> sum: 39551
+sdsgszdznng4sctkfiveszkdknqjf8
+ -> ['4', '5', '8'] -> 48 -> sum: 39599
+vtzmnllvvhrcfdlxcxxlqvzst1
+ -> ['1'] -> 11 -> sum: 39610
+htzxcxpvqj91sevenxrggdtjzbrgcv
+ -> ['9', '1', '7'] -> 97 -> sum: 39707
+ldcnbzstq4ktzdxgmcl
+ -> ['4'] -> 44 -> sum: 39751
+twohshbblseven4grzpdtfmjn13cmg
+ -> ['2', '7', '4', '1', '3'] -> 23 -> sum: 39774
+cktjnhdnine1three9mjqvnjtkseven
+ -> ['9', '1', '3', '9', '7'] -> 97 -> sum: 39871
+891ninesevenxbdjs
+ -> ['8', '9', '1', '9', '7'] -> 87 -> sum: 39958
+kxjpngdtwomxttdqcdkhdj686sixl
+ -> ['2', '6', '8', '6', '6'] -> 26 -> sum: 39984
+hsninefourcxfj3five3eight2
+ -> ['9', '4', '3', '5', '3', '8', '2'] -> 92 -> sum: 40076
+6eightgkkr1one
+ -> ['6', '8', '1', '1'] -> 61 -> sum: 40137
+658one
+ -> ['6', '5', '8', '1'] -> 61 -> sum: 40198
+zqgrxfourfour8
+ -> ['4', '4', '8'] -> 48 -> sum: 40246
+twobbnfkdtb9five21zcfiveoneightjgt
+ -> ['2', '9', '5', '2', '1', '5', '1', '8'] -> 28 -> sum: 40274
+79jsm55twonine5
+ -> ['7', '9', '5', '5', '2', '9', '5'] -> 75 -> sum: 40349
+eightftk2two
+ -> ['8', '2', '2'] -> 82 -> sum: 40431
+eightbjbvqscs5pvmb14lgvgfv
+ -> ['8', '5', '1', '4'] -> 84 -> sum: 40515
+four4four
+ -> ['4', '4', '4'] -> 44 -> sum: 40559
+qmzheight5hgfourkgtqfhjfournine3
+ -> ['8', '5', '4', '4', '9', '3'] -> 83 -> sum: 40642
+twofzdqtvssx2
+ -> ['2', '2'] -> 22 -> sum: 40664
+1fivefivesixsevenone47
+ -> ['1', '5', '5', '6', '7', '1', '4', '7'] -> 17 -> sum: 40681
+xhrjffnine8
+ -> ['9', '8'] -> 98 -> sum: 40779
+oneseveneight72fqgzscqt5
+ -> ['1', '7', '8', '7', '2', '5'] -> 15 -> sum: 40794
+nine7fours58
+ -> ['9', '7', '4', '5', '8'] -> 98 -> sum: 40892
+three2fourseventhree
+ -> ['3', '2', '4', '7', '3'] -> 33 -> sum: 40925
+35ninesix
+ -> ['3', '5', '9', '6'] -> 36 -> sum: 40961
+qgjsrxgqb5
+ -> ['5'] -> 55 -> sum: 41016
+fiveqghjjvjthree4eightqfgrhblkjtwo
+ -> ['5', '3', '4', '8', '2'] -> 52 -> sum: 41068
+9mvcm
+ -> ['9'] -> 99 -> sum: 41167
+96fourqzdsix
+ -> ['9', '6', '4', '6'] -> 96 -> sum: 41263
+vbzqmmzbvrbxltvlfmcpfvnddmgsbb6four7onegn
+ -> ['6', '4', '7', '1'] -> 61 -> sum: 41324
+three3qnlxmkhpctwosevenfourvmqmqlgfrsn
+ -> ['3', '3', '2', '7', '4'] -> 34 -> sum: 41358
+2seven5one2six15vgnqzpggn
+ -> ['2', '7', '5', '1', '2', '6', '1', '5'] -> 25 -> sum: 41383
+sixljtvqzlh1
+ -> ['6', '1'] -> 61 -> sum: 41444
+45onesix
+ -> ['4', '5', '1', '6'] -> 46 -> sum: 41490
+foursix44eightseventhree
+ -> ['4', '6', '4', '4', '8', '7', '3'] -> 43 -> sum: 41533
+djsix84rnx8z34
+ -> ['6', '8', '4', '8', '3', '4'] -> 64 -> sum: 41597
+1mkgthree8two9956
+ -> ['1', '3', '8', '2', '9', '9', '5', '6'] -> 16 -> sum: 41613
+psgnl6six5seventwoone
+ -> ['6', '6', '5', '7', '2', '1'] -> 61 -> sum: 41674
+546cfgr2three
+ -> ['5', '4', '6', '2', '3'] -> 53 -> sum: 41727
+thtpczmkskptzn9pqzncp
+ -> ['9'] -> 99 -> sum: 41826
+31threeninesn7xhqvrsv
+ -> ['3', '1', '3', '9', '7'] -> 37 -> sum: 41863
+threehmjpvctfhnmhs57ninepzfvq
+ -> ['3', '5', '7', '9'] -> 39 -> sum: 41902
+teightwothreesixdzqhvljk84nineninesevenb
+ -> ['8', '2', '3', '6', '8', '4', '9', '9', '7'] -> 87 -> sum: 41989
+gvptkx9rlsnmtwoonesqfxmzkv
+ -> ['9', '2', '1'] -> 91 -> sum: 42080
+7twojszdrxcxfour
+ -> ['7', '2', '4'] -> 74 -> sum: 42154
+3eight617npsbbrpkjtzsmeight
+ -> ['3', '8', '6', '1', '7', '8'] -> 38 -> sum: 42192
+3sixqntvpttddsixninemtpb4
+ -> ['3', '6', '6', '9', '4'] -> 34 -> sum: 42226
+1onefiveseven2fourseventwo6
+ -> ['1', '1', '5', '7', '2', '4', '7', '2', '6'] -> 16 -> sum: 42242
+67foursevensixsix2
+ -> ['6', '7', '4', '7', '6', '6', '2'] -> 62 -> sum: 42304
+one7qeightonehckxhxdfjjzsrdnj
+ -> ['1', '7', '8', '1'] -> 11 -> sum: 42315
+38onehzjxg
+ -> ['3', '8', '1'] -> 31 -> sum: 42346
+4splxs1zfvfksevenkrzfive
+ -> ['4', '1', '7', '5'] -> 45 -> sum: 42391
+fourfournkcj9
+ -> ['4', '4', '9'] -> 49 -> sum: 42440
+1ljmbhcpttjnine
+ -> ['1', '9'] -> 19 -> sum: 42459
+2xnvfpdgccxfivellztmtpnc
+ -> ['2', '5'] -> 25 -> sum: 42484
+ljvlxplhxfsjqv6sevennine44nine
+ -> ['6', '7', '9', '4', '4', '9'] -> 69 -> sum: 42553
+qdonefourlnrzrgthbt1
+ -> ['1', '4', '1'] -> 11 -> sum: 42564
+twothreehvvhsxzqz1chvbcsxtll
+ -> ['2', '3', '1'] -> 21 -> sum: 42585
+82vmfjbvssmlgk2dbsljgvd3
+ -> ['8', '2', '2', '3'] -> 83 -> sum: 42668
+xzfbfmbbxfeightgfz3lvzpzbpmv1four
+ -> ['8', '3', '1', '4'] -> 84 -> sum: 42752
+oneeightfd5ninetwo
+ -> ['1', '8', '5', '9', '2'] -> 12 -> sum: 42764
+ghddk7six7xqmglkvnqonesix
+ -> ['7', '6', '7', '1', '6'] -> 76 -> sum: 42840
+six1eight
+ -> ['6', '1', '8'] -> 68 -> sum: 42908
+7five5ptkbvvvfive
+ -> ['7', '5', '5', '5'] -> 75 -> sum: 42983
+3hftgthreehcfrsnl1fivetwo
+ -> ['3', '3', '1', '5', '2'] -> 32 -> sum: 43015
+7six12onebhpz
+ -> ['7', '6', '1', '2', '1'] -> 71 -> sum: 43086
+mkqjv8bzdnt9sevenfourtwo
+ -> ['8', '9', '7', '4', '2'] -> 82 -> sum: 43168
+five3mzgqnm
+ -> ['5', '3'] -> 53 -> sum: 43221
+sixtwocbjxlgvp1twoseven
+ -> ['6', '2', '1', '2', '7'] -> 67 -> sum: 43288
+dkfmbzmvxseven971
+ -> ['7', '9', '7', '1'] -> 71 -> sum: 43359
+bninetwojnsnkc7
+ -> ['9', '2', '7'] -> 97 -> sum: 43456
+ninekzcpfive4five3phz3
+ -> ['9', '5', '4', '5', '3', '3'] -> 93 -> sum: 43549
+eight8143
+ -> ['8', '8', '1', '4', '3'] -> 83 -> sum: 43632
+eightrzdmxzb8eight6
+ -> ['8', '8', '8', '6'] -> 86 -> sum: 43718
+5pdjm22ninej37two
+ -> ['5', '2', '2', '9', '3', '7', '2'] -> 52 -> sum: 43770
+fourtwo8fivetwosixthreetwo
+ -> ['4', '2', '8', '5', '2', '6', '3', '2'] -> 42 -> sum: 43812
+ncttc71fourfivejpjzcgzpj4
+ -> ['7', '1', '4', '5', '4'] -> 74 -> sum: 43886
+5882three8glcvgnfhscbtmnqmnh
+ -> ['5', '8', '8', '2', '3', '8'] -> 58 -> sum: 43944
+ngxkxtwo9pltbbmxrknvjheighttwo53
+ -> ['2', '9', '8', '2', '5', '3'] -> 23 -> sum: 43967
+twoninenpqqqgsbsq3fjdk
+ -> ['2', '9', '3'] -> 23 -> sum: 43990
+eightsevensixhtsjvxjc8jxftgnptgqsixvcncglzlgq
+ -> ['8', '7', '6', '8', '6'] -> 86 -> sum: 44076
+sjxtcnt8gpeight7cbgffmgqksix
+ -> ['8', '8', '7', '6'] -> 86 -> sum: 44162
+fdsn9threenineninetthree37
+ -> ['9', '3', '9', '9', '3', '3', '7'] -> 97 -> sum: 44259
+19rrfdqtpmonetqjdcjtxlhkptccjn6mtztqhvvtqftbv
+ -> ['1', '9', '1', '6'] -> 16 -> sum: 44275
+vrhprdjsfour28p4
+ -> ['4', '2', '8', '4'] -> 44 -> sum: 44319
+eightfiveeightninevdvnmbv58vrs
+ -> ['8', '5', '8', '9', '5', '8'] -> 88 -> sum: 44407
+qdzhzrhlfl7hhxqzxqdxeight
+ -> ['7', '8'] -> 78 -> sum: 44485
+svnbzgbhxjcx26xclfgs
+ -> ['2', '6'] -> 26 -> sum: 44511
+5lcggbhzrmnknine83txffvcdonecrqvvjf
+ -> ['5', '9', '8', '3', '1'] -> 51 -> sum: 44562
+six5fpncsbbqbbcczcmbgrqmndxmrxloneone
+ -> ['6', '5', '1', '1'] -> 61 -> sum: 44623
+1one6
+ -> ['1', '1', '6'] -> 16 -> sum: 44639
+88gctsmp7eightrvshklprtm
+ -> ['8', '8', '7', '8'] -> 88 -> sum: 44727
+xf874onehhcknx
+ -> ['8', '7', '4', '1'] -> 81 -> sum: 44808
+sevenvvncrhvxjxnzsftkfhsktwo3eightfour
+ -> ['7', '2', '3', '8', '4'] -> 74 -> sum: 44882
+8ngprdqfour
+ -> ['8', '4'] -> 84 -> sum: 44966
+98fmrxpxzzbrjpxzqdxmv
+ -> ['9', '8'] -> 98 -> sum: 45064
+2zbxzsthreefivefhdbhvjjxv6btwonef
+ -> ['2', '3', '5', '6', '2', '1'] -> 21 -> sum: 45085
+jzkjcvpn924qjcbr97h3twoneff
+ -> ['9', '2', '4', '9', '7', '3', '2', '1'] -> 91 -> sum: 45176
+foursix3
+ -> ['4', '6', '3'] -> 43 -> sum: 45219
+9pmtdjvrxjrponetjlxbdzbvrcjtc77
+ -> ['9', '1', '7', '7'] -> 97 -> sum: 45316
+52twoeight2fourh8
+ -> ['5', '2', '2', '8', '2', '4', '8'] -> 58 -> sum: 45374
+kpzfztlzlkdprbmrhsjcxfzsbch31
+ -> ['3', '1'] -> 31 -> sum: 45405
+4fivebtfjmfive6seven
+ -> ['4', '5', '5', '6', '7'] -> 47 -> sum: 45452
+ccttxjmheight6twothreelnjmfoureightnvcvpmpc
+ -> ['8', '6', '2', '3', '4', '8'] -> 88 -> sum: 45540
+6twoz1dzv95
+ -> ['6', '2', '1', '9', '5'] -> 65 -> sum: 45605
+threelsmgdnxcsevenqr4xrtthzgkqxsrdssmjqv
+ -> ['3', '7', '4'] -> 34 -> sum: 45639
+fourgpvjxdg4qpvfivefive8nine
+ -> ['4', '4', '5', '5', '8', '9'] -> 49 -> sum: 45688
+9mncmnhrclsq
+ -> ['9'] -> 99 -> sum: 45787
+9zjfmctz
+ -> ['9'] -> 99 -> sum: 45886
+pndgptggnsthree8xlcctvpsix6three
+ -> ['3', '8', '6', '6', '3'] -> 33 -> sum: 45919
+98npgrlkqmcninethree
+ -> ['9', '8', '9', '3'] -> 93 -> sum: 46012
+fivexp6fourdpckhqpcxczrfbr
+ -> ['5', '6', '4'] -> 54 -> sum: 46066
+six2xdgsqdpsbmgftzvqhnjg
+ -> ['6', '2'] -> 62 -> sum: 46128
+7ninepqheight2eight7g
+ -> ['7', '9', '8', '2', '8', '7'] -> 77 -> sum: 46205
+2zrsevennlpcljnp
+ -> ['2', '7'] -> 27 -> sum: 46232
+twoonethreevvpfp1jrhsevenfour
+ -> ['2', '1', '3', '1', '7', '4'] -> 24 -> sum: 46256
+threebzmggv7bjm6cczkbsronetwo4
+ -> ['3', '7', '6', '1', '2', '4'] -> 34 -> sum: 46290
+three1foursgvfdrrqmk4two6
+ -> ['3', '1', '4', '4', '2', '6'] -> 36 -> sum: 46326
+onengzkkjsxsjlxxxthpd7xfcvkthreefour
+ -> ['1', '7', '3', '4'] -> 14 -> sum: 46340
+sixnine5sixeighthlvmf
+ -> ['6', '9', '5', '6', '8'] -> 68 -> sum: 46408
+63gkmbsdc3fourmgrjhrlbqgcfxf
+ -> ['6', '3', '3', '4'] -> 64 -> sum: 46472
+2bmldthree7skhhpxfonenineone
+ -> ['2', '3', '7', '1', '9', '1'] -> 21 -> sum: 46493
+b6seven7
+ -> ['6', '7', '7'] -> 67 -> sum: 46560
+seven39
+ -> ['7', '3', '9'] -> 79 -> sum: 46639
+twoffxbsgpcxctmmvb4kdhn89
+ -> ['2', '4', '8', '9'] -> 29 -> sum: 46668
+seven1fmgtseven
+ -> ['7', '1', '7'] -> 77 -> sum: 46745
+ninegxbdmztzzbqq6lgcvsbhzplqt
+ -> ['9', '6'] -> 96 -> sum: 46841
+7twoonev
+ -> ['7', '2', '1'] -> 71 -> sum: 46912
+24nine
+ -> ['2', '4', '9'] -> 29 -> sum: 46941
+tvjmbzlsjtrtdhdlvnffmcfoursix6sevenonebvq
+ -> ['4', '6', '6', '7', '1'] -> 41 -> sum: 46982
+5jpntjsthree1threetkbsh7
+ -> ['5', '3', '1', '3', '7'] -> 57 -> sum: 47039
+sixone423fourqnczdxcpmsvjpzhl
+ -> ['6', '1', '4', '2', '3', '4'] -> 64 -> sum: 47103
+33zdfourseven3
+ -> ['3', '3', '4', '7', '3'] -> 33 -> sum: 47136
+77lltwo5nineseven7djjmdqkqfd
+ -> ['7', '7', '2', '5', '9', '7', '7'] -> 77 -> sum: 47213
+4xfnpfbtdl7
+ -> ['4', '7'] -> 47 -> sum: 47260
+two5ninejbrfrsbrsvzfivenineseventwo
+ -> ['2', '5', '9', '5', '9', '7', '2'] -> 22 -> sum: 47282
+89znjldjptdnfkeightkpcxdxcc3bkmfhtzkkh
+ -> ['8', '9', '8', '3'] -> 83 -> sum: 47365
+qlkxd1rv44qlhhpjrninetwo
+ -> ['1', '4', '4', '9', '2'] -> 12 -> sum: 47377
+6l2rfscvcgdm7
+ -> ['6', '2', '7'] -> 67 -> sum: 47444
+rhtsrbrmlnfvseven1eight23dd
+ -> ['7', '1', '8', '2', '3'] -> 73 -> sum: 47517
+7xcglznxrjzsmhqnkqjhbjqxnjpjx15six
+ -> ['7', '1', '5', '6'] -> 76 -> sum: 47593
+fourfiveq1vcsnnsxkmrcjscn4sevendbbtjh
+ -> ['4', '5', '1', '4', '7'] -> 47 -> sum: 47640
+6qcvjplvnine91rfjk51
+ -> ['6', '9', '9', '1', '5', '1'] -> 61 -> sum: 47701
+jmdsgfxd5
+ -> ['5'] -> 55 -> sum: 47756
+tlzpvtsvkdsixtwo95
+ -> ['6', '2', '9', '5'] -> 65 -> sum: 47821
+8threeeighthvhlqss
+ -> ['8', '3', '8'] -> 88 -> sum: 47909
+threetpxxlmfrhpf15
+ -> ['3', '1', '5'] -> 35 -> sum: 47944
+4twoeightsix
+ -> ['4', '2', '8', '6'] -> 46 -> sum: 47990
+rg8nvrtzxjvfddkeightwofzs
+ -> ['8', '8', '2'] -> 82 -> sum: 48072
+tggqninemk1
+ -> ['9', '1'] -> 91 -> sum: 48163
+mlchhftqkxtbhfpjsixnine817
+ -> ['6', '9', '8', '1', '7'] -> 67 -> sum: 48230
+231rpkxcvcz5fcztnqskqtwo
+ -> ['2', '3', '1', '5', '2'] -> 22 -> sum: 48252
+five9hhrtmp9twosixthreeeightv
+ -> ['5', '9', '9', '2', '6', '3', '8'] -> 58 -> sum: 48310
+9threeschsm17
+ -> ['9', '3', '1', '7'] -> 97 -> sum: 48407
+hhreightfour171dtbmhzhhjb9fgbg
+ -> ['8', '4', '1', '7', '1', '9'] -> 89 -> sum: 48496
+bhgp6
+ -> ['6'] -> 66 -> sum: 48562
+fourztzlhdr2hbdlv8fivenine
+ -> ['4', '2', '8', '5', '9'] -> 49 -> sum: 48611
+fourseven8seven
+ -> ['4', '7', '8', '7'] -> 47 -> sum: 48658
+eighttwo8eight
+ -> ['8', '2', '8', '8'] -> 88 -> sum: 48746
+two12
+ -> ['2', '1', '2'] -> 22 -> sum: 48768
+threenine76ndvklb
+ -> ['3', '9', '7', '6'] -> 36 -> sum: 48804
+twoseven9jxfcthreecnrpvglksc
+ -> ['2', '7', '9', '3'] -> 23 -> sum: 48827
+84fivehmf
+ -> ['8', '4', '5'] -> 85 -> sum: 48912
+jpgbtnrsb15eightgdtqmk
+ -> ['1', '5', '8'] -> 18 -> sum: 48930
+34two8eightbxqvc5nine
+ -> ['3', '4', '2', '8', '8', '5', '9'] -> 39 -> sum: 48969
+four4hsgjmtbfrvfivenine
+ -> ['4', '4', '5', '9'] -> 49 -> sum: 49018
+threecfcx8ninefive3xone
+ -> ['3', '8', '9', '5', '3', '1'] -> 31 -> sum: 49049
+cvhtlnlnhh71
+ -> ['7', '1'] -> 71 -> sum: 49120
+four9sevenonenine9ninejlgmtvxmxseven
+ -> ['4', '9', '7', '1', '9', '9', '9', '7'] -> 47 -> sum: 49167
+vttchshfgfpdbmpmp338
+ -> ['3', '3', '8'] -> 38 -> sum: 49205
+nfcdnhq6nineeight79
+ -> ['6', '9', '8', '7', '9'] -> 69 -> sum: 49274
+rgltnqzrzfqdjsfrhzmfivetwogklxqdhzbjtwo5three
+ -> ['5', '2', '2', '5', '3'] -> 53 -> sum: 49327
+five3n69fiveninesixtwo
+ -> ['5', '3', '6', '9', '5', '9', '6', '2'] -> 52 -> sum: 49379
+nfhheight12clcqcnpdbz6nineseven7
+ -> ['8', '1', '2', '6', '9', '7', '7'] -> 87 -> sum: 49466
+eightgxtmstbthreedvrqllvp1ljqstbjdhcmbmbeight
+ -> ['8', '3', '1', '8'] -> 88 -> sum: 49554
+two26four7three
+ -> ['2', '2', '6', '4', '7', '3'] -> 23 -> sum: 49577
+6rtninethreefive
+ -> ['6', '9', '3', '5'] -> 65 -> sum: 49642
+vhnqgdzzbxr9two7mdjzsx3lf
+ -> ['9', '2', '7', '3'] -> 93 -> sum: 49735
+twothreepzxljpd6sixcmsxkcqkfive
+ -> ['2', '3', '6', '6', '5'] -> 25 -> sum: 49760
+6threesevensevenjzkcqthfivegmjvstrsix
+ -> ['6', '3', '7', '7', '5', '6'] -> 66 -> sum: 49826
+five7fivetwofour
+ -> ['5', '7', '5', '2', '4'] -> 54 -> sum: 49880
+onesixseven767
+ -> ['1', '6', '7', '7', '6', '7'] -> 17 -> sum: 49897
+36onehxdpmcqxsfbfive
+ -> ['3', '6', '1', '5'] -> 35 -> sum: 49932
+2hdvqrlhs5six
+ -> ['2', '5', '6'] -> 26 -> sum: 49958
+pjfcjrnjnk9four99nineskshccmmnvxzvhvqmcprkdqvhhk
+ -> ['9', '4', '9', '9', '9'] -> 99 -> sum: 50057
+4gronexqnzdfthreejgqt
+ -> ['4', '1', '3'] -> 43 -> sum: 50100
+kvrsixtwofive2
+ -> ['6', '2', '5', '2'] -> 62 -> sum: 50162
+eightfourone4hone
+ -> ['8', '4', '1', '4', '1'] -> 81 -> sum: 50243
+cgbjtdbvptworbcz3
+ -> ['2', '3'] -> 23 -> sum: 50266
+jpgmhfour1
+ -> ['4', '1'] -> 41 -> sum: 50307
+ngbgjhlstwokxc8onejlhczxvnjbrkqzdl
+ -> ['2', '8', '1'] -> 21 -> sum: 50328
+chbmqrz3fourthree
+ -> ['3', '4', '3'] -> 33 -> sum: 50361
+rgvmkpeightqdssbcgf9fivefive
+ -> ['8', '9', '5', '5'] -> 85 -> sum: 50446
+5vgrscgshtbfgbljt5
+ -> ['5', '5'] -> 55 -> sum: 50501
+pxgq5kffxbdjgq5cjnpzfdt738six
+ -> ['5', '5', '7', '3', '8', '6'] -> 56 -> sum: 50557
+meightsvfb47xcdfkhf5
+ -> ['8', '4', '7', '5'] -> 85 -> sum: 50642
+clzqdc4five1onexfxlxnltfourfour1
+ -> ['4', '5', '1', '1', '4', '4', '1'] -> 41 -> sum: 50683
+fivesix3threeseven
+ -> ['5', '6', '3', '3', '7'] -> 57 -> sum: 50740
+tworgklxh1threefourcsrsbj5
+ -> ['2', '1', '3', '4', '5'] -> 25 -> sum: 50765
+3fivepdppjlmmb6fkgrcbldbxsdjpbvbqgpj1nine
+ -> ['3', '5', '6', '1', '9'] -> 39 -> sum: 50804
+9clvlvsckdmjsbxzrmrhfour
+ -> ['9', '4'] -> 94 -> sum: 50898
+fourlptwofqspctl913
+ -> ['4', '2', '9', '1', '3'] -> 43 -> sum: 50941
+28foursevenrfjfive5qrfsl
+ -> ['2', '8', '4', '7', '5', '5'] -> 25 -> sum: 50966
+gfhmkfln2jcqttonethreetbmcdhhvbnmqdgsbrrmpk8
+ -> ['2', '1', '3', '8'] -> 28 -> sum: 50994
+eight35qvkxtwo3fivevfive
+ -> ['8', '3', '5', '2', '3', '5', '5'] -> 85 -> sum: 51079
+26fivegpcqqsjr7five
+ -> ['2', '6', '5', '7', '5'] -> 25 -> sum: 51104
+three1seven4
+ -> ['3', '1', '7', '4'] -> 34 -> sum: 51138
+9fiveonevmxhtndtfzmnxvtjkmr51six
+ -> ['9', '5', '1', '5', '1', '6'] -> 96 -> sum: 51234
+64vgrgtwofour
+ -> ['6', '4', '2', '4'] -> 64 -> sum: 51298
+four9one
+ -> ['4', '9', '1'] -> 41 -> sum: 51339
+nxjtdt2three1three96lfzglzcfour
+ -> ['2', '3', '1', '3', '9', '6', '4'] -> 24 -> sum: 51363
+355six
+ -> ['3', '5', '5', '6'] -> 36 -> sum: 51399
+9lvqslrvdrd8six
+ -> ['9', '8', '6'] -> 96 -> sum: 51495
+9threetwo35six
+ -> ['9', '3', '2', '3', '5', '6'] -> 96 -> sum: 51591
+two57
+ -> ['2', '5', '7'] -> 27 -> sum: 51618
+phpkcmfxvt7gphd1qglpmckhnj
+ -> ['7', '1'] -> 71 -> sum: 51689
+sixthree1ffrdbsix4two
+ -> ['6', '3', '1', '6', '4', '2'] -> 62 -> sum: 51751
+spbscvjfl8vvkpjkshkx3
+ -> ['8', '3'] -> 83 -> sum: 51834
+5nnjdbjj3
+ -> ['5', '3'] -> 53 -> sum: 51887
+bmmqrrkdcfbctmsk124eight9one
+ -> ['1', '2', '4', '8', '9', '1'] -> 11 -> sum: 51898
+4rxdpvqlhn
+ -> ['4'] -> 44 -> sum: 51942
+seven13glpzfknqtxdqjq3qblzcjvx9
+ -> ['7', '1', '3', '3', '9'] -> 79 -> sum: 52021
+8bnkbzszkxkrrfdmcstvfvp
+ -> ['8'] -> 88 -> sum: 52109
+nndndjrs1qd1421
+ -> ['1', '1', '4', '2', '1'] -> 11 -> sum: 52120
+twovn9four8five
+ -> ['2', '9', '4', '8', '5'] -> 25 -> sum: 52145
+eightrc1
+ -> ['8', '1'] -> 81 -> sum: 52226
+ltjvtcqfzdfourseven8kvcx43
+ -> ['4', '7', '8', '4', '3'] -> 43 -> sum: 52269
+vn6ninelr8
+ -> ['6', '9', '8'] -> 68 -> sum: 52337
+2seven1
+ -> ['2', '7', '1'] -> 21 -> sum: 52358
+7rldpqrfoureightthreesfhz11six
+ -> ['7', '4', '8', '3', '1', '1', '6'] -> 76 -> sum: 52434
+56fourkmvl6threegzfqnlrlz
+ -> ['5', '6', '4', '6', '3'] -> 53 -> sum: 52487
+8mkpcsnzmknmzpjppf8two7
+ -> ['8', '8', '2', '7'] -> 87 -> sum: 52574
+bzgvzcpkqxmbxcqsix4qjzt28eightwoj
+ -> ['6', '4', '2', '8', '8', '2'] -> 62 -> sum: 52636
+threesixxqkshhnine7njtvvxfmjl8
+ -> ['3', '6', '9', '7', '8'] -> 38 -> sum: 52674
+5seven6vqcd62sixone
+ -> ['5', '7', '6', '6', '2', '6', '1'] -> 51 -> sum: 52725
+three552
+ -> ['3', '5', '5', '2'] -> 32 -> sum: 52757
+hsslkhbd88zjhqvgtzpfour1
+ -> ['8', '8', '4', '1'] -> 81 -> sum: 52838
+oneone96fvjbmcnzrr
+ -> ['1', '1', '9', '6'] -> 16 -> sum: 52854
+pspndcdtctwo6
+ -> ['2', '6'] -> 26 -> sum: 52880
+v3one9
+ -> ['3', '1', '9'] -> 39 -> sum: 52919
+fivefournmrfrzghdh7twoxmpgkps772
+ -> ['5', '4', '7', '2', '7', '7', '2'] -> 52 -> sum: 52971
+vdkqxqnsthreefive25
+ -> ['3', '5', '2', '5'] -> 35 -> sum: 53006
+kgjsevenczqrqf14pjchtfbnnninexhgn8
+ -> ['7', '1', '4', '9', '8'] -> 78 -> sum: 53084
+lqkhzjzm3six1one3
+ -> ['3', '6', '1', '1', '3'] -> 33 -> sum: 53117
+1three3l61seven
+ -> ['1', '3', '3', '6', '1', '7'] -> 17 -> sum: 53134
+1flsfhznl
+ -> ['1'] -> 11 -> sum: 53145
+r8hnbpbtrzkstdg
+ -> ['8'] -> 88 -> sum: 53233
+hhrmnkktv7seven29fourpvjceight
+ -> ['7', '7', '2', '9', '4', '8'] -> 78 -> sum: 53311
+2mbft
+ -> ['2'] -> 22 -> sum: 53333
+954five9fivegbmlz5
+ -> ['9', '5', '4', '5', '9', '5', '5'] -> 95 -> sum: 53428
+dshbfdqdjjgtxffjmllgvxjfrstgldgdxjsfxbone9tgseven
+ -> ['1', '9', '7'] -> 17 -> sum: 53445
+fourseveneighttdgghnfive7pchxddgggcq
+ -> ['4', '7', '8', '5', '7'] -> 47 -> sum: 53492
+8zx5seven7pffldzjhdb8
+ -> ['8', '5', '7', '7', '8'] -> 88 -> sum: 53580
+bpqslhkt33sixnlxckbbr2
+ -> ['3', '3', '6', '2'] -> 32 -> sum: 53612
+xqmxvjcplh4seven
+ -> ['4', '7'] -> 47 -> sum: 53659
+jd9zxmz2two1kvsghkvkpz
+ -> ['9', '2', '2', '1'] -> 91 -> sum: 53750
+9blk3
+ -> ['9', '3'] -> 93 -> sum: 53843
+6rjvmrjk46
+ -> ['6', '4', '6'] -> 66 -> sum: 53909
+onetwo6ninehdrlnxgbc
+ -> ['1', '2', '6', '9'] -> 19 -> sum: 53928
+6drvnkssqzv5jfnineseveneight
+ -> ['6', '5', '9', '7', '8'] -> 68 -> sum: 53996
+sevenmvxlzmtwox49one1
+ -> ['7', '2', '4', '9', '1', '1'] -> 71 -> sum: 54067
+8fxnnjr18fivefcf
+ -> ['8', '1', '8', '5'] -> 85 -> sum: 54152
+five98sixkblsvns7mgttvhhz
+ -> ['5', '9', '8', '6', '7'] -> 57 -> sum: 54209
+85qkkg463lxdhzdtllqtv3
+ -> ['8', '5', '4', '6', '3', '3'] -> 83 -> sum: 54292
+fivethree5eightfivessrnhsmdrnvssxfgxmsix
+ -> ['5', '3', '5', '8', '5', '6'] -> 56 -> sum: 54348
+xgmqjone7j
+ -> ['1', '7'] -> 17 -> sum: 54365
+pkclcg54
+ -> ['5', '4'] -> 54 -> sum: 54419
+dvllcqqghh891pdlqnbtb6183
+ -> ['8', '9', '1', '6', '1', '8', '3'] -> 83 -> sum: 54502
+2qbnqkgncqrvlfntwo
+ -> ['2', '2'] -> 22 -> sum: 54524
+seven7qdfzfpfivepnbhrqx48
+ -> ['7', '7', '5', '4', '8'] -> 78 -> sum: 54602
+682sixqtwotbgnsspzqcntlrhpzcq
+ -> ['6', '8', '2', '6', '2'] -> 62 -> sum: 54664
+2sffrxkgmsixfivetwokfvnlhz
+ -> ['2', '6', '5', '2'] -> 22 -> sum: 54686
+sv9klzvnzsgjmoneseven
+ -> ['9', '1', '7'] -> 97 -> sum: 54783
+bzbppxbdpxs9
+ -> ['9'] -> 99 -> sum: 54882
+68ninetwo99four5grdrrkpr
+ -> ['6', '8', '9', '2', '9', '9', '4', '5'] -> 65 -> sum: 54947
+mtfcscprzkeightfzdbhdndqh1njdfourtdtflbfjrth
+ -> ['8', '1', '4'] -> 84 -> sum: 55031
+8nvdtbrfrvfivesixtwodzxfhgpzlk6cgkbr
+ -> ['8', '5', '6', '2', '6'] -> 86 -> sum: 55117
+3slmzvnine5fm
+ -> ['3', '9', '5'] -> 35 -> sum: 55152
+eightone16nine
+ -> ['8', '1', '1', '6', '9'] -> 89 -> sum: 55241
+kdzrjbh2txzz5hbone96one
+ -> ['2', '5', '1', '9', '6', '1'] -> 21 -> sum: 55262
+17pgtwofl41
+ -> ['1', '7', '2', '4', '1'] -> 11 -> sum: 55273
+eightoneqjvzv3
+ -> ['8', '1', '3'] -> 83 -> sum: 55356
+fivetwocrhmvxqkvbeightfive1qzcxvds
+ -> ['5', '2', '8', '5', '1'] -> 51 -> sum: 55407
+2htzsvdhvqvdjv
+ -> ['2'] -> 22 -> sum: 55429
+55429
