@@ -6,7 +6,7 @@
 # For each line, there are multiple games separated by ';'
 # determine whice games are possible with 12 red, 13 green, 14 blue
 valid_dict = {"red": 12, "green": 13, "blue": 14}
-with open('/Users/bradenshaak/learn/advent_of_code/2023/2/input.txt') as fp:
+with open('input.txt') as fp:
   game = 1
   sum = 0
   valid_games = []
